@@ -1,0 +1,1570 @@
+{
+ "widgets": [
+  {
+   "image": 9644,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Creality K2 PRO Combo",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "826b4bc659b14",
+   "_sow_form_timestamp": 1792373654139.0,
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "grid": 0,
+    "cell": 0,
+    "id": 0,
+    "widget_id": "acedb6be-fc03-407f-9bca-29c9256cb6f2",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   },
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-940210000",
+   "option_name": "widget_sow-image"
+  },
+  {
+   "title": "",
+   "text": "<h1 style=\"color:#224a85;\">Creality K2 PRO Combo</h1>\n<p>A impressora de alto desempenho do LabMaker. Câmara fechada e aquecida, movimento CoreXY de alta velocidade e o sistema <strong>CFS</strong>, que troca sozinho entre até 4 filamentos na mesma peça. É indicada para peças grandes, materiais técnicos e impressões multicoloridas.</p>\n<p><a class=\"lm-btn\" href=\"https://chamados.eesc.usp.br\">Solicitar impressão</a> <a class=\"lm-btn lm-btn-alt\" href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Guia de materiais</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "a043dbe7cf9e4",
+   "_sow_form_timestamp": 1792373654141.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210001",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 0,
+    "cell": 1,
+    "id": 1,
+    "widget_id": "b6a630e0-b4e6-4d09-af37-5cf4f546d056",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p class=\"lm-stat-k\">Área útil</p>\n<p class=\"lm-stat-v\"><strong>300 × 300 × 300 mm</strong></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "184003568a9b4",
+   "_sow_form_timestamp": 1792373654141.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210002",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 1,
+    "cell": 0,
+    "id": 2,
+    "widget_id": "18dbf11b-d3e8-49a8-9430-39738213ad59",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p class=\"lm-stat-k\">Velocidade</p>\n<p class=\"lm-stat-v\"><strong>até 600 mm/s</strong></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "e4275d1d99814",
+   "_sow_form_timestamp": 1792373654142.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210003",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 1,
+    "cell": 1,
+    "id": 3,
+    "widget_id": "093d98cc-1a1d-479f-949c-eb7dbcc15f38",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p class=\"lm-stat-k\">Multimaterial</p>\n<p class=\"lm-stat-v\"><strong>até 4 filamentos</strong></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "69b3ec477b8b4",
+   "_sow_form_timestamp": 1792373654142.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210004",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 1,
+    "cell": 2,
+    "id": 4,
+    "widget_id": "24e43d5c-5e1c-40ac-8f40-5151d1654dce",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p class=\"lm-stat-k\">Câmara</p>\n<p class=\"lm-stat-v\"><strong>aquecida até 60 °C</strong></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "34c84ee9adbd4",
+   "_sow_form_timestamp": 1792373654142.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210005",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 1,
+    "cell": 3,
+    "id": 5,
+    "widget_id": "3e3bb84d-3b46-4ce5-918e-420382902787",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "image": 545,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Creality K2 PRO com câmara fechada",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": true,
+   "_sow_form_id": "f965bd3c0b634",
+   "_sow_form_timestamp": 1792373654142.0,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-940210006",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "grid": 2,
+    "cell": 0,
+    "id": 6,
+    "widget_id": "0d7dcfe3-e95b-4764-82d3-61ebcbcf9790",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Volume e estrutura</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n<p>Na cinemática <strong>CoreXY</strong>, os motores ficam fixos na estrutura e só o cabeçote se move, puxado por correias. Com menos massa em movimento, a máquina acelera muito mais sem perder precisão. A estrutura é toda metálica e a câmara é fechada.</p>\n<ul>\n<li><strong>Área útil:</strong> 300 × 300 × 300 mm. Cabe uma peça inteira do tamanho de um capacete, ou um lote de peças pequenas</li>\n<li><strong>Peso:</strong> cerca de 24 kg</li>\n</ul>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "f0d559d8da064",
+   "_sow_form_timestamp": 1792373654143.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210007",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 2,
+    "cell": 1,
+    "id": 7,
+    "widget_id": "3adaf5c9-9a30-4fad-a9dd-d51f9223dd5f",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Sistema multimaterial CFS</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n<p>O <strong>CFS</strong> (Creality Filament System) é uma caixa com 4 bobinas ligada à impressora, que carrega e troca o filamento automaticamente durante a impressão. Permite peças em várias cores ou com materiais diferentes.</p>\n<ul>\n<li><strong>4 bobinas por CFS</strong>, expansível para até 16 com mais unidades</li>\n<li><strong>Leitura RFID:</strong> reconhece automaticamente filamentos Creality com etiqueta</li>\n<li><strong>Monitora umidade e temperatura</strong> das bobinas, que ficam protegidas do ar</li>\n<li><strong>Compatível com:</strong> PLA, PETG, PET, ABS, ASA e PLA-CF</li>\n<li><strong>Não compatível com:</strong> TPU flexível, PVA/BVOH úmidos e carretéis de papelão</li>\n</ul>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "d5d70ff83be24",
+   "_sow_form_timestamp": 1792373654143.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210008",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 3,
+    "cell": 0,
+    "id": 8,
+    "widget_id": "2a95820d-3972-4c0d-9779-6364cac6475b",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "image": 9641,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Sistema de filamentos CFS da Creality com quatro bobinas",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "e2a73d1a0a3d4",
+   "_sow_form_timestamp": 1792373654143.0,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-940210009",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "grid": 3,
+    "cell": 1,
+    "id": 9,
+    "widget_id": "c40decd9-67ad-4072-b381-b8c7e9dd859c",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "image": 9640,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Cabeçote de extrusão direta da K2 PRO",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "164b19abca384",
+   "_sow_form_timestamp": 1792373654144.0,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-940210010",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "grid": 4,
+    "cell": 0,
+    "id": 10,
+    "widget_id": "30547a6d-d233-47dd-9bb0-19bb16093850",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Extrusão, mesa e câmara</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n<p>Extrusão <strong>direta</strong>: o motor do filamento fica no próprio cabeçote, o que dá controle mais preciso da extrusão. A <strong>câmara aquecida</strong> mantém o ar interno quente e estável, e evita o empenamento de plásticos como ABS e ASA.</p>\n<ul>\n<li><strong>Bico:</strong> 0,4 mm trimetálico com ponta de aço, resistente a filamentos abrasivos com fibra de carbono</li>\n<li><strong>Temperatura do bico:</strong> até 300 °C</li>\n<li><strong>Mesa:</strong> até 110 °C, placa flexível de PEI</li>\n<li><strong>Câmara:</strong> aquecimento ativo até 60 °C</li>\n</ul>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "34f57758b5444",
+   "_sow_form_timestamp": 1792373654144.0,
+   "so_sidebar_emulator_id": "sow-editor-940210011",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 4,
+    "cell": 1,
+    "id": 11,
+    "widget_id": "38056f45-770a-4343-af8c-e2cc5483d5ca",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Desempenho</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n<p>Os eixos X e Y e a extrusora usam motores <strong>step-servo</strong> em malha fechada: a máquina sabe a posição real do motor e corrige perdas de passo. Isso permite imprimir rápido sem deslocar camadas.</p>\n<ul>\n<li><strong>Velocidade máxima:</strong> até 600 mm/s</li>\n<li><strong>Aceleração:</strong> até 20.000 mm/s²</li>\n<li><strong>Na prática:</strong> peças que levariam um dia na Ender 3 Pro podem ficar prontas em poucas horas, conforme o material e a qualidade desejada</li>\n</ul>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "8d2accfd5e724",
+   "_sow_form_timestamp": 1792373654144.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210012",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 5,
+    "cell": 0,
+    "id": 12,
+    "widget_id": "2ad5d552-ed25-4ea4-85bf-d7a63d8f85d6",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "image": 9638,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Movimento de alta velocidade da K2 PRO",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "504cf9bd9bb84",
+   "_sow_form_timestamp": 1792373654145.0,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-940210013",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "grid": 5,
+    "cell": 1,
+    "id": 13,
+    "widget_id": "a8f7899a-138e-40f3-8b24-f9e34d2e9120",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "image": 9634,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Peças em materiais técnicos impressas na K2 PRO",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "0a94f5e6ffd84",
+   "_sow_form_timestamp": 1792373654145.0,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-940210014",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "grid": 6,
+    "cell": 0,
+    "id": 14,
+    "widget_id": "c2048574-74db-4fda-b66a-b97bb841ac65",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Materiais</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n<p>A câmara aquecida e o bico de aço ampliam bastante a lista de materiais.</p>\n<ul>\n<li><strong>Uso geral:</strong> PLA, PETG, PET</li>\n<li><strong>Resistentes ao calor e ao sol:</strong> ABS e ASA, sem empenamento</li>\n<li><strong>Compósitos com fibra de carbono:</strong> PLA-CF, PA-CF (nylon) e PPA-CF, para peças rígidas, engrenagens e suportes estruturais</li>\n</ul>\n<p><a href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Qual material escolher? ➜</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "1583f5c51ea74",
+   "_sow_form_timestamp": 1792373654145.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210015",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 6,
+    "cell": 1,
+    "id": 15,
+    "widget_id": "9779e84d-a372-4b9f-b44c-40f8623d4d49",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Câmeras com IA e automação</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n<p>A K2 PRO tem <strong>duas câmeras</strong>: uma na câmara, que acompanha a impressão e detecta falhas como filamento solto ou peça descolada, pausando a máquina, e outra junto ao bico, que ajuda a regular o fluxo de material.</p>\n<ul>\n<li><strong>Nivelamento da mesa:</strong> automático</li>\n<li><strong>Time-lapse:</strong> gravação em vídeo da impressão</li>\n<li><strong>Fatiador:</strong> Creality Print 6.0 ou superior</li>\n<li><strong>Arquivos aceitos:</strong> STL, OBJ, 3MF e STEP, fatiados pela equipe</li>\n</ul>\n<p><strong>Quando usar a K2 PRO?</strong> Peças maiores que 22 cm, ABS/ASA, compósitos com fibra de carbono, várias cores ou quando o prazo é curto.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "d8e89ac2d72a4",
+   "_sow_form_timestamp": 1792373654146.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210016",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 7,
+    "cell": 0,
+    "id": 16,
+    "widget_id": "69be5882-44be-4f3d-b42c-d4f3d2593072",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "image": 9637,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Câmera com inteligência artificial monitorando a impressão",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "a020c5ef8fec4",
+   "_sow_form_timestamp": 1792373654146.0,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-940210017",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "grid": 7,
+    "cell": 1,
+    "id": 17,
+    "widget_id": "640855c9-06f7-43f1-b538-3e8f9dbc1a82",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Pronto para imprimir?</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n<p>Envie o arquivo pelo sistema de chamados e indique o material desejado. A equipe avalia se a peça deve ir para a K2 PRO.</p>\n<p><a class=\"lm-btn lm-btn-alt\" href=\"https://sites.usp.br/labmaker/impressoras-3d/\">← Comparar impressoras</a> <a class=\"lm-btn\" href=\"https://chamados.eesc.usp.br\">Solicitar impressão</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "86f2af77e2444",
+   "_sow_form_timestamp": 1792373654146.0,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-940210018",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 8,
+    "cell": 0,
+    "id": 18,
+    "widget_id": "7ab9ed97-b5c6-4a02-8a2c-8696805255b3",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3><span style=\"color:#ffffff;\">LabMaker 3D EESC</span></h3><p><span style=\"color:#d6d6d6;\">O LabMaker é o laboratório de impressão 3D da Escola de Engenharia de São Carlos (EESC-USP), dedicado a apoiar projetos de ensino, pesquisa e extensão da comunidade da USP São Carlos.</span></p><p><a style=\"color:#ffffff;\" href=\"https://chamados.eesc.usp.br\"><strong>➜ Solicitar impressão</strong></a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5de3abb0e5d54",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 0,
+    "id": 19,
+    "widget_id": "124fbd9c-37bd-4638-accb-bc18b3b849c3",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">O LABMAKER</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/quem-somos/\">Quem somos</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/equipe/\">Equipe</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/museu/\">Museu de Projetos</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/galeria/\">Galeria</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/noticias/\">Notícias</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "dd5ef190b0434",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 1,
+    "id": 20,
+    "widget_id": "705f93ef-815f-4be7-961f-6ddcccc39dc8",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">SERVIÇOS</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/como-solicitar/\">Como solicitar</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/perguntas-frequentes/\">Perguntas frequentes</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/impressoras-3d/\">Impressoras 3D</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Guia de materiais</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/recursos/\">Recursos para modelar</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "1e696fd930324",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 2,
+    "id": 21,
+    "widget_id": "2848e481-cad8-4ba9-af00-9348884a3c7f",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">CONTATO</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><span style=\"color:#d6d6d6;\">Segunda a sexta-feira</span></p><p><span style=\"color:#d6d6d6;\">Rodrigo Marchiori Mazak</span></p><p><a style=\"color:#d6d6d6;\" href=\"tel:+5516991910335\">(16) 99191-0335</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://chamados.eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Abrir chamado</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "970a55e7f77a4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 3,
+    "id": 22,
+    "widget_id": "300b6508-36d4-416f-a3bd-875ffb504690",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<hr style=\"border:0;border-top:1px solid #4a4a4a;\" /><p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Espaço CITE – Biblioteca da EESC (Serviço de Biblioteca Prof. Dr. Sérgio Rodrigues Fontes)</span></p><p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Área 1 – Av. Trabalhador São-carlense, 400 – Pq. Arnold Schimidt – CEP 13566-590 – São Carlos – SP</span></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "57c1bda6220b4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 10,
+    "cell": 0,
+    "id": 23,
+    "widget_id": "dc7a51ca-cca7-4882-8c2b-238171dedba7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-eesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "EESC-USP",
+   "url": "https://eesc.usp.br",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": true,
+   "full_width": "",
+   "_sow_form_id": "b22d663ce2564",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 1,
+    "id": 24,
+    "widget_id": "b22dfc3f-2468-4354-9a5b-879db1a909b5",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-beesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Biblioteca da EESC – Prof. Dr. Sérgio Rodrigues Fontes",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "60993ffac2444",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 2,
+    "id": 25,
+    "widget_id": "317172cc-7448-48c4-9020-bdba45f31f25",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-cetepe-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "CETEPE – Centro de Engenharia Aplicada ao Ensino",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "58c8f0e90c364",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 3,
+    "id": 26,
+    "widget_id": "64b178ec-e9c5-487a-a1aa-38ac976b94a4",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "134382b6371e4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 0,
+    "id": 27,
+    "widget_id": "3fcc314d-5955-4732-b670-97703d4bb6e3",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "eb7539665c744",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 4,
+    "id": 28,
+    "widget_id": "8f2241c4-b99d-4849-959c-5ce2ffbbddb7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\"><small><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/creditos/\">Créditos</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Portal da EESC</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://www5.usp.br\" target=\"_blank\" rel=\"noopener\">Universidade de São Paulo</a></small></p><p style=\"text-align:center;\"><small><span style=\"color:#d6d6d6;\">© 2026 LabMaker – Escola de Engenharia de São Carlos</span></small></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "573456f4773c4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 0,
+    "id": 29,
+    "widget_id": "196f4a3a-5550-42b7-aa23-a2b10a41f4b7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  }
+ ],
+ "grids": [
+  {
+   "cells": 2,
+   "style": {
+    "class": "lm-hero lm-cascata",
+    "padding": "50px 40px",
+    "background": "#eef1f6",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "40px",
+    "gutter": "24px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 4,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "30px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "45px",
+    "gutter": "24px",
+    "cell_alignment": "center",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "45px",
+    "gutter": "24px",
+    "cell_alignment": "center",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "45px",
+    "gutter": "24px",
+    "cell_alignment": "center",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "45px",
+    "gutter": "24px",
+    "cell_alignment": "center",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "45px",
+    "gutter": "24px",
+    "cell_alignment": "center",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "45px",
+    "gutter": "24px",
+    "cell_alignment": "center",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "padding": "40px",
+    "background": "#f2f6fa",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "24px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 4,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "60px 40px 25px 40px"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "0px 40px 10px 40px"
+   }
+  },
+  {
+   "cells": 5,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "center",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "30px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "25px 40px 25px 40px"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "5px 40px 30px 40px"
+   }
+  }
+ ],
+ "grid_cells": [
+  {
+   "grid": 0,
+   "index": 0,
+   "weight": 0.45,
+   "style": {
+    "class": "lm-sec",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 0,
+   "index": 1,
+   "weight": 0.55,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "center"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "class": "lm-card lm-stat",
+    "padding": "18px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "class": "lm-card lm-stat",
+    "padding": "18px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 2,
+   "weight": 1,
+   "style": {
+    "class": "lm-card lm-stat",
+    "padding": "18px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 3,
+   "weight": 1,
+   "style": {
+    "class": "lm-card lm-stat",
+    "padding": "18px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 0,
+   "weight": 0.42,
+   "style": {
+    "class": "lm-sec",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 1,
+   "weight": 0.58,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 3,
+   "index": 0,
+   "weight": 0.58,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 3,
+   "index": 1,
+   "weight": 0.42,
+   "style": {
+    "class": "lm-sec",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 0,
+   "weight": 0.42,
+   "style": {
+    "class": "lm-sec",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 1,
+   "weight": 0.58,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 5,
+   "index": 0,
+   "weight": 0.58,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 5,
+   "index": 1,
+   "weight": 0.42,
+   "style": {
+    "class": "lm-sec",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 0,
+   "weight": 0.42,
+   "style": {
+    "class": "lm-sec",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 1,
+   "weight": 0.58,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 7,
+   "index": 0,
+   "weight": 0.58,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 7,
+   "index": 1,
+   "weight": 0.42,
+   "style": {
+    "class": "lm-sec",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 8,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 9,
+   "index": 0,
+   "weight": 1.5,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 9,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 9,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 9,
+   "index": 3,
+   "weight": 1.1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 10,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 0,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 1,
+   "weight": 1.2,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 2,
+   "weight": 1.4,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 3,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 4,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 12,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  }
+ ],
+ "name": "Creality K2 PRO Combo"
+}

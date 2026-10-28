@@ -1,0 +1,420 @@
+/* =========================================================
+   LabMaker EESC-USP – CSS completo e organizado (v8)
+   Apague tudo no Custom CSS e cole este arquivo inteiro.
+   ========================================================= */
+
+
+/* =========================================================
+   1. BASE E TIPOGRAFIA
+   ========================================================= */
+html{scroll-behavior:smooth}
+.panel-layout{color:#3b4452;line-height:1.7}
+.panel-layout h3{color:#1b2b45}
+.panel-layout table{border-radius:10px;overflow:hidden}
+.lm-anim h3{letter-spacing:.3px}
+.lm-anim img{border-radius:4px}
+
+
+/* =========================================================
+   2. MENU DO TOPO
+   ========================================================= */
+/* 2.1 Estilo dos itens (classe lm-menu em Aparência > Menus) */
+li.lm-menu > a{font-weight:600 !important;color:#224a85 !important;text-transform:uppercase;letter-spacing:1px;font-size:.88em;padding:8px 14px !important;border-radius:4px;transition:background .2s}
+li.lm-menu > a:hover,
+li.lm-menu.current-menu-item > a,
+li.lm-menu.current-menu-ancestor > a{background:#eef1f6 !important}
+li.lm-menu.current-menu-item > a,
+li.lm-menu.current-menu-ancestor > a{box-shadow:inset 0 -3px 0 #224a85}
+li.lm-menu.menu-item-has-children > a::after{content:" ▾";font-size:.8em}
+li.lm-menu-cta > a{background:#224a85 !important;color:#fff !important}
+li.lm-menu-cta > a:hover{background:#18365f !important}
+
+/* 2.2 O retângulo inteiro de cada item é clicável */
+html body li.menu-item{position:relative !important}
+html body li.menu-item > a{
+  position:static !important;
+  display:block !important;
+  cursor:pointer !important;
+  -webkit-user-select:none;
+  user-select:none;
+}
+html body li.menu-item > a::before{
+  content:"" !important;
+  position:absolute !important;
+  top:0 !important;
+  left:0 !important;
+  right:0 !important;
+  bottom:0 !important;
+  z-index:2 !important;
+  display:block !important;
+  background:transparent !important;
+}
+html body li.menu-item > ul.sub-menu{z-index:50 !important}
+
+
+/* =========================================================
+   3. RODAPÉ
+   ========================================================= */
+/* 3.1 Esconde o rodapé padrão do tema (fica só o do LabMaker) */
+#colophon,
+.site-footer,
+#footer,
+footer.footer,
+body > footer,
+#page > footer,
+.footer-widgets,
+#footer-widgets{display:none !important}
+
+/* 3.2 Logos menores e mais espaçadas */
+img[src*="labmaker-logo-"]{
+  height:55px !important;
+  width:auto !important;
+  max-width:100%;
+  margin:10px auto !important;
+  padding:0 28px;
+  box-sizing:content-box;
+  opacity:.85;
+  transition:opacity .25s ease, transform .25s ease;
+}
+img[src*="labmaker-logo-"]:hover{opacity:1;transform:translateY(-2px)}
+@media (max-width:780px){
+  img[src*="labmaker-logo-"]{height:42px !important;padding:0;margin:14px auto !important}
+}
+
+/* 3.3 Links do rodapé deslizam ao passar o mouse */
+a[style*="color:#d6d6d6"]{display:inline-block;transition:transform .25s ease, color .25s}
+a[style*="color:#d6d6d6"]:hover{transform:translateX(5px);color:#ffffff !important}
+
+
+/* =========================================================
+   4. BOTÕES E LINKS
+   ========================================================= */
+/* Botão padrão (.lm-btn): fundo escuro e texto branco */
+.lm-btn{
+  display:inline-block;
+  background-color:#224a85 !important;
+  color:#ffffff !important;
+  padding:12px 26px;
+  border-radius:8px;
+  font-weight:600;
+  text-decoration:none !important;
+  margin:4px 10px 4px 0;
+  border:2px solid #224a85;
+  transition:all .2s ease-in-out;
+  background-image:none !important;
+}
+.lm-btn:hover{
+  background-color:#18365f !important;
+  color:#ffffff !important;
+  border-color:#18365f;
+  transform:translateY(-2px);
+}
+/* Botão secundário (.lm-btn-alt): transparente com borda */
+.lm-btn-alt,
+.lm-btn.lm-btn-alt{
+  background-color:transparent !important;
+  color:#224a85 !important;
+  border:2px solid #224a85 !important;
+}
+.lm-btn-alt:hover,
+.lm-btn.lm-btn-alt:hover{
+  background-color:#224a85 !important;
+  color:#ffffff !important;
+}
+/* Botão grande (Abrir chamado, na Início) */
+.lm-btn-grande{padding:16px 48px !important;font-size:17px;border-radius:10px !important;box-shadow:0 8px 20px rgba(34,74,133,.22)}
+
+/* Links do conteúdo: sublinhado que cresce ao passar o mouse */
+.lm-anim p a:not(.lm-btn),.lm-anim li a:not(.lm-btn){text-decoration:none;background:linear-gradient(currentColor,currentColor) 0 100%/0 2px no-repeat;transition:background-size .3s ease}
+.lm-anim p a:not(.lm-btn):hover,.lm-anim li a:not(.lm-btn):hover{background-size:100% 2px}
+
+
+/* =========================================================
+   5. BLOCOS E CARTÕES
+   ========================================================= */
+/* 5.1 Cartões com foto (Galeria) */
+.lm-card{background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 2px 16px rgba(27,43,69,.07);height:100%;border:0 !important}
+.lm-media img{width:100%;height:260px;object-fit:cover;display:block;border-radius:0 !important}
+
+/* 5.2 Galeria: fotos do mesmo tamanho e cartões alinhados */
+.lm-galeria .lm-media img{width:100%;height:240px;object-fit:cover;display:block;border-radius:0 !important}
+.lm-galeria .panel-cell-style{border-radius:12px;overflow:hidden}
+.lm-galeria details[open] summary{margin-bottom:4px}
+
+/* 5.3 Cartões de contato clicáveis (Início) */
+.lm-card-clicavel{border-radius:14px;overflow:hidden;box-shadow:0 2px 16px rgba(27,43,69,.07)}
+.lm-bloco-link{display:block;height:100%;box-sizing:border-box;padding:34px 26px 30px;color:inherit !important;text-decoration:none !important;background-image:none !important;cursor:pointer}
+.lm-bloco-link:hover .lm-bloco-acao{text-decoration:underline}
+.lm-bloco-link:hover .lm-ico{transform:translateY(-4px);background-color:#e1e8f2}
+.lm-contato .panel-grid-cell .so-panel,.lm-contato .panel-grid-cell .panel-widget-style{height:100%}
+
+/* 5.4 Ícones vetoriais */
+.lm-ico{display:inline-block;width:68px;height:68px;border-radius:50%;background-color:#eef1f6;background-repeat:no-repeat;background-position:center;background-size:34px 34px;font-size:0 !important;line-height:0;color:transparent;vertical-align:middle;transition:transform .3s ease, background-color .3s ease}
+.lm-ico-ideia{background-image:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22%23224a85%22 stroke-width=%221.7%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22%3E%3Cpath d=%22M9 18h6M10 21h4%22/%3E%3Cpath d=%22M12 3a6 6 0 0 0-3.6 10.8c.7.5 1.1 1.3 1.1 2.1V16h5v-.1c0-.8.4-1.6 1.1-2.1A6 6 0 0 0 12 3z%22/%3E%3Cpath d=%22M12 7v3M10.5 8.5h3%22 opacity=%22.55%22/%3E%3C/svg%3E")}
+.lm-ico-ensaio{background-image:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22%23224a85%22 stroke-width=%221.7%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22%3E%3Cpath d=%22M9 3h6M10 3v6.2L5.2 18.3A1.8 1.8 0 0 0 6.8 21h10.4a1.8 1.8 0 0 0 1.6-2.7L14 9.2V3%22/%3E%3Cpath d=%22M7.3 15h9.4%22/%3E%3Ccircle cx=%2210.5%22 cy=%2217.6%22 r=%22.6%22 fill=%22%23224a85%22/%3E%3Ccircle cx=%2213.6%22 cy=%2218.3%22 r=%22.6%22 fill=%22%23224a85%22/%3E%3C/svg%3E")}
+.lm-ico-geometria{background-image:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22%23224a85%22 stroke-width=%221.7%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22%3E%3Cpath d=%22M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3z%22/%3E%3Cpath d=%22M12 12l8-4.5M12 12v9M12 12L4 7.5%22/%3E%3C/svg%3E")}
+.lm-ico-extensao{background-image:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22%23224a85%22 stroke-width=%221.7%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22%3E%3Cpath d=%22M5 21V4%22/%3E%3Cpath d=%22M5 4.5h12.5l-2.4 4 2.4 4H5%22/%3E%3C/svg%3E")}
+.lm-ico-local{background-image:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22%23224a85%22 stroke-width=%221.7%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22%3E%3Cpath d=%22M12 21s-6.5-5.8-6.5-11.2a6.5 6.5 0 0 1 13 0C18.5 15.2 12 21 12 21z%22/%3E%3Ccircle cx=%2212%22 cy=%229.8%22 r=%222.4%22/%3E%3C/svg%3E")}
+.lm-ico-horario{background-image:url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22 fill=%22none%22 stroke=%22%23224a85%22 stroke-width=%221.7%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22%3E%3Ccircle cx=%2212%22 cy=%2212%22 r=%228.8%22/%3E%3Cpath d=%22M12 7.2V12l3.2 2.1%22/%3E%3C/svg%3E")}
+
+/* 5.5 Notícias automáticas (portais de tecnologia e fóruns) em grade de cartões */
+.lm-rss-grid .widget-title,.lm-rss-grid .widgettitle,.lm-rss-grid h3:first-child,.lm-rss-grid .rss-widget-icon{display:none !important}
+.lm-rss-grid ul{list-style:none !important;margin:0 !important;padding:0 !important;display:grid !important;grid-template-columns:repeat(3,1fr);gap:24px}
+@media (max-width:1000px){.lm-rss-grid ul{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:640px){.lm-rss-grid ul{grid-template-columns:1fr}}
+.lm-rss-grid li{
+  position:relative;display:flex !important;flex-direction:column;
+  background:#fff;border:1px solid #dde3ec;border-top:4px solid #224a85;border-radius:12px;
+  padding:22px 22px 20px !important;margin:0 !important;min-height:170px;
+  transition:transform .3s ease, box-shadow .3s ease;
+}
+.lm-rss-grid .rss-date{order:1;font-size:12px;color:#6b7686;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px}
+.lm-rss-grid a.rsswidget{order:2;flex-grow:1;font-size:17px;line-height:1.45;font-weight:600;color:#1b2b45 !important;text-decoration:none !important;background-image:none !important}
+.lm-rss-grid .rssSummary{order:3;color:#5b6676;font-size:14px;line-height:1.6;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin-top:8px}
+.lm-rss-grid li::after{order:4;content:"Ler a matéria \2192";color:#224a85;font-weight:700;font-size:14px;margin-top:16px}
+.lm-rss-forum li{border-top-color:#5b6676}
+.lm-rss-forum li::after{content:"Ver a discussão \2192"}
+.lm-rss-grid a.rsswidget::after{content:"";position:absolute;top:0;left:0;right:0;bottom:0;z-index:1;border-radius:12px}
+.lm-rss-grid li:hover{transform:translateY(-5px);box-shadow:0 12px 28px rgba(34,74,133,.14)}
+.lm-rss-grid li:hover::after{text-decoration:underline}
+
+/* 5.6 Equipe: fotos do mesmo tamanho (foco no rosto) e cartões separados */
+.lm-equipe-foto img{width:100%;height:300px;object-fit:cover;object-position:center 25%;display:block;border-radius:0 !important}
+.lm-equipe .lm-equipe-card{margin:0 14px !important;border-radius:14px !important;overflow:hidden}
+.lm-equipe .lm-equipe-card h3{margin-top:18px}
+@media (max-width:780px){
+  .lm-equipe-foto img{height:340px}
+  .lm-equipe .lm-equipe-card{margin:0 0 26px !important}
+}
+
+/* 5.7 Créditos: cartões com cantos arredondados (o espaço entre eles vem da coluna espaçadora) */
+.lm-credito{border-radius:14px !important;box-sizing:border-box}
+
+
+/* =========================================================
+   6. EFEITOS AO PASSAR O MOUSE
+   ========================================================= */
+/* Cartões sobem com sombra */
+.lm-cascata .panel-cell-style{border-radius:12px;transition:transform .3s ease, box-shadow .3s ease}
+.lm-cascata .panel-cell-style:hover{transform:translateY(-6px);box-shadow:0 12px 28px rgba(34,74,133,.16)}
+.lm-card:hover{transform:translateY(-5px);box-shadow:0 14px 32px rgba(27,43,69,.14) !important}
+.lm-cascata .panel-cell-style:hover .lm-ico{transform:translateY(-4px);background-color:#e1e8f2}
+/* Linhas informativas, sem link: não sobem e o ícone fica parado */
+.lm-sem-hover .panel-cell-style{cursor:default}
+.lm-sem-hover .panel-cell-style:hover{transform:none !important;box-shadow:none !important}
+.lm-sem-hover .panel-cell-style:hover .lm-ico{transform:none !important;background-color:#eef1f6 !important}
+/* Fotos com link: zoom dentro da moldura */
+.lm-anim a .sow-image-container,.lm-anim .sow-image-container{overflow:hidden;border-radius:4px}
+.lm-anim a img{transition:transform .5s ease, filter .5s ease}
+.lm-anim a:hover img{transform:scale(1.06);filter:brightness(1.06)}
+
+
+/* =========================================================
+   7. ANIMAÇÕES
+   ========================================================= */
+/* 7.1 Biblioteca de movimentos */
+@keyframes lmSurgir{0%{opacity:0;transform:translateY(60px) scale(.97)}60%{opacity:1}100%{opacity:1;transform:none}}
+@keyframes lmDaEsquerda{0%{opacity:0;transform:translateX(-70px)}100%{opacity:1;transform:none}}
+@keyframes lmDaDireita{0%{opacity:0;transform:translateX(70px)}100%{opacity:1;transform:none}}
+@keyframes lmDescer{0%{opacity:0;transform:translateY(-25px)}100%{opacity:1;transform:none}}
+@keyframes lmBarra{0%{width:0}100%{width:56px}}
+@keyframes lmCortina{0%{clip-path:inset(0 100% 0 0);transform:scale(1.08)}100%{clip-path:inset(0 0 0 0);transform:none}}
+@keyframes lmZoomLento{0%{transform:scale(1.12)}100%{transform:scale(1)}}
+@keyframes lmProgresso{0%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+
+/* 7.2 Ligadas à rolagem (Chrome, Edge, Safari recentes) */
+@supports (animation-timeline: view()){
+  .lm-anim{animation:lmSurgir ease-out both;animation-timeline:view();animation-range:entry 0% cover 35%}
+
+  .lm-anim h2{animation:lmDescer ease-out both;animation-timeline:view();animation-range:entry 0% cover 30%}
+  .lm-anim hr[style*="56px"]{animation:lmBarra ease-out both;animation-timeline:view();animation-range:entry 10% cover 40%}
+
+  .lm-cascata .panel-grid-cell:nth-child(2) .lm-anim{animation-range:entry 12% cover 45%}
+  .lm-cascata .panel-grid-cell:nth-child(3) .lm-anim{animation-range:entry 24% cover 55%}
+  .lm-cascata .panel-grid-cell:nth-child(4) .lm-anim{animation-range:entry 36% cover 65%}
+  .lm-cascata .panel-grid-cell:nth-child(5) .lm-anim{animation-range:entry 48% cover 75%}
+
+  .lm-cascata .panel-grid-cell:first-child:nth-last-child(2) .lm-anim{animation-name:lmDaEsquerda}
+  .lm-cascata .panel-grid-cell:nth-child(2):last-child .lm-anim{animation-name:lmDaDireita;animation-range:entry 10% cover 45%}
+
+  .lm-cascata .panel-grid-cell:first-child:nth-last-child(2) .lm-anim img,
+  .lm-cascata .panel-grid-cell:nth-child(2):last-child .lm-anim img{
+    animation:lmCortina ease-out both;animation-timeline:view();animation-range:entry 5% cover 45%}
+
+  /* Barra de progresso de leitura no topo da tela */
+  body::after{content:"";position:fixed;top:0;left:0;right:0;height:4px;background:#224a85;z-index:99999;
+    transform-origin:0 50%;animation:lmProgresso linear both;animation-timeline:scroll(root)}
+}
+
+/* 7.3 Navegadores sem esse recurso (ex.: Firefox): cascata ao carregar */
+@supports not (animation-timeline: view()){
+  .lm-anim{animation:lmSurgir 1.2s cubic-bezier(.2,.7,.3,1) both}
+  .lm-cascata .panel-grid-cell:nth-child(2) .lm-anim{animation-delay:.25s}
+  .lm-cascata .panel-grid-cell:nth-child(3) .lm-anim{animation-delay:.5s}
+  .lm-cascata .panel-grid-cell:nth-child(4) .lm-anim{animation-delay:.75s}
+  .lm-cascata .panel-grid-cell:nth-child(5) .lm-anim{animation-delay:1s}
+}
+
+/* 7.4 Faixa do topo de cada página (anima ao abrir a página) */
+.panel-layout > .panel-grid:first-child .panel-grid-cell:first-child .lm-anim{
+  animation:lmDaEsquerda 1.1s cubic-bezier(.2,.7,.3,1) both !important;animation-timeline:auto !important}
+.panel-layout > .panel-grid:first-child .panel-grid-cell:nth-child(2) .lm-anim{
+  animation:lmDaDireita 1.1s .2s cubic-bezier(.2,.7,.3,1) both !important;animation-timeline:auto !important;overflow:hidden}
+.panel-layout > .panel-grid:first-child .panel-grid-cell:nth-child(2) .lm-anim img{
+  animation:lmZoomLento 6s ease-out both !important;animation-timeline:auto !important}
+.panel-layout > .panel-grid:first-child .lm-anim h1,
+.panel-layout > .panel-grid:first-child .lm-anim h2{animation:lmDescer .9s .1s ease-out both !important;animation-timeline:auto !important}
+.panel-layout > .panel-grid:first-child .lm-anim hr[style*="56px"]{animation:lmBarra .9s .5s ease-out both !important;animation-timeline:auto !important}
+
+
+/* =========================================================
+   7.5 MODO ESCURO AUTOMÁTICO
+   Ativa sozinho quando o sistema do visitante está no modo escuro
+   ========================================================= */
+@media (prefers-color-scheme: dark){
+
+  /* --- Fundo e texto base --- */
+  html,body,#page,.site,.site-content,#content,main{background-color:#262e3b !important;color:#c9d1dc}
+
+  /* --- Topo do site (inclusive a barra fixa ao rolar) --- */
+  header,#masthead,.site-header,
+  *:has(li.menu-item):not(:has(.panel-layout)),
+  *:has(.custom-logo):not(:has(.panel-layout)),
+  *:has(.site-branding):not(:has(.panel-layout)){background-color:#1d2430 !important;border-color:#2f3947 !important}
+  *:has(li.menu-item):not(:has(.panel-layout))[style*="fixed"],
+  .sticky,.is-sticky,.fixed,.navbar-fixed-top,.header-fixed,.sticky-header{background-color:#1d2430 !important;box-shadow:0 4px 14px rgba(0,0,0,.35) !important}
+  *:has(li.menu-item):not(:has(.panel-layout)) img,
+  .custom-logo,.custom-logo-link img,.site-logo img,.site-branding img{filter:brightness(0) invert(1) !important;opacity:.95}
+
+  /* --- Menu --- */
+  li.menu-item > a{color:#e1e7ef !important}
+  li.menu-item > a:hover{color:#ffffff !important}
+  li.lm-menu > a{color:#9dbbe9 !important}
+  li.lm-menu > a:hover,li.lm-menu.current-menu-item > a,li.lm-menu.current-menu-ancestor > a{background:#2f3947 !important}
+  li.lm-menu.current-menu-item > a,li.lm-menu.current-menu-ancestor > a{box-shadow:inset 0 -3px 0 #9dbbe9}
+  ul.sub-menu{background-color:#2a3341 !important;border-color:#3a4556 !important}
+
+  /* --- Blocos do Page Builder: fundo único, cartões separados pelas bordas --- */
+  .panel-cell-style,.panel-widget-style,.panel-row-style:not(.siteorigin-panels-stretch){background-color:transparent !important}
+  .panel-cell-style,.panel-widget-style,.panel-row-style{border-color:#3a4556 !important}
+  /* Faixas de ponta a ponta (exceto o rodapé) */
+  .siteorigin-panels-stretch:not(:has(a[style*="color:#d6d6d6"])):not(:has(img[src*="labmaker-logo-"])):not(:has(span[style*="color:#d6d6d6"])){background-color:#1f2631 !important}
+  /* Cartões com preenchimento */
+  .lm-sem-hover .panel-cell-style,
+  .lm-card,.lm-card-clicavel{background-color:#2e3848 !important}
+  .lm-rss-grid li{background-color:#2e3848 !important;border-color:#3a4556 !important;border-top-color:#9dbbe9 !important}
+  .lm-rss-forum li{border-top-color:#7d8a9c !important}
+
+  /* --- Textos --- */
+  .panel-layout p,.panel-layout li,.panel-layout td,.panel-layout small,.panel-layout .rss-date,.panel-layout .rssSummary{color:#c9d1dc}
+  .panel-layout h1,.panel-layout h2,.panel-layout h3,.panel-layout h4,.panel-layout a.rsswidget{color:#e6ebf2 !important}
+  .panel-layout strong,.panel-layout b,.panel-layout em,.panel-layout blockquote,.panel-layout dt,.panel-layout dd,.panel-layout label{color:inherit}
+  .panel-layout span:not([style*="color"]):not(.lm-ico){color:inherit}
+  .panel-layout summary{color:#9dbbe9 !important}
+  .panel-layout a:not([style*="color"]):not(.lm-btn):not(.lm-bloco-link){color:#9dbbe9 !important}
+  .lm-bloco-link{color:#c9d1dc !important}
+  .lm-bloco-acao{color:#9dbbe9 !important}
+  .lm-rss-grid li::after{color:#9dbbe9}
+
+  /* --- Cores escritas direto no conteúdo (com ou sem espaço) --- */
+  [style*="color:#224a85"],[style*="color: #224a85"]{color:#9dbbe9 !important}
+  [style*="color:#1b2b45"],[style*="color: #1b2b45"],
+  [style*="color:#1e3a8a"],[style*="color: #1e3a8a"]{color:#e6ebf2 !important}
+  [style*="color:#000"],[style*="color: #000"],
+  [style*="color:#333"],[style*="color: #333"],
+  [style*="color:#3b4452"],[style*="color: #3b4452"],
+  [style*="color:#4a5565"],[style*="color: #4a5565"],
+  [style*="color:#4b5563"],[style*="color: #4b5563"],
+  [style*="color:#5b6676"],[style*="color: #5b6676"],
+  [style*="color:#6b7686"],[style*="color: #6b7686"]{color:#c9d1dc !important}
+  [style*="color:#0284c7"],[style*="color: #0284c7"]{color:#9dbbe9 !important}
+  hr[style*="#224a85"]{border-top-color:#9dbbe9 !important}
+
+  /* --- Páginas e posts fora do Page Builder (ex.: notícia aberta) --- */
+  .entry-content,.entry-content p,.entry-content li,.entry-content td,
+  .entry-summary,.entry-meta,.post-meta,.widget,.widget p,.widget li{color:#c9d1dc !important}
+  .entry-title,.entry-title a,.page-title,.entry-content h1,.entry-content h2,
+  .entry-content h3,.entry-content h4,.widget-title,.widgettitle{color:#e6ebf2 !important}
+  .entry-content a,.widget a,.entry-meta a{color:#9dbbe9 !important}
+
+  /* --- Tabelas --- */
+  .panel-layout table,.panel-layout th,.panel-layout td,
+  .entry-content table,.entry-content th,.entry-content td{border-color:#3a4556 !important}
+  .panel-layout th,.panel-layout thead th,
+  .entry-content th,.entry-content thead th{color:#e6ebf2 !important;background-color:#334055 !important}
+  .panel-layout tbody tr:nth-child(even) td,
+  .entry-content tbody tr:nth-child(even) td{background-color:#2b3443 !important}
+
+  /* --- Ícones claros em círculo escuro --- */
+  .lm-ico{filter:invert(1) hue-rotate(180deg)}
+
+  /* --- Botões --- */
+  .lm-btn-alt,.lm-btn.lm-btn-alt{color:#9dbbe9 !important;border-color:#9dbbe9 !important}
+  .lm-btn-alt:hover,.lm-btn.lm-btn-alt:hover{background-color:#9dbbe9 !important;color:#1d2430 !important}
+
+  /* --- Sombras e barra de progresso --- */
+  .lm-cascata .panel-cell-style:hover,.lm-card:hover,.lm-rss-grid li:hover{box-shadow:0 10px 24px rgba(0,0,0,.35) !important}
+  .lm-card,.lm-card-clicavel,.lm-btn-grande{box-shadow:none !important}
+  body::after{background:#9dbbe9}
+}
+
+
+/* =========================================================
+   5.8 IMPRESSORAS: fotos em vitrine de mesma altura, sem cortar a máquina
+   ========================================================= */
+.lm-produto img{width:100%;height:320px;object-fit:contain;background:#ffffff;padding:18px;box-sizing:border-box;display:block;border-radius:0 !important}
+.lm-impressora{border-radius:14px !important;overflow:hidden}
+@media (max-width:780px){.lm-produto img{height:260px}}
+
+/* =========================================================
+   5.9 Esconde o título automático do tema nas páginas do Page Builder
+   ========================================================= */
+body.siteorigin-panels .entry-header,
+body.siteorigin-panels .page-header,
+body.siteorigin-panels h1.entry-title,
+body.siteorigin-panels h1.page-title,
+body.siteorigin-panels *:has(> h1.entry-title):not(:has(.panel-layout)),
+body.siteorigin-panels *:has(> h1.page-title):not(:has(.panel-layout)){display:none !important}
+@media (prefers-color-scheme: dark){
+  .entry-header,.page-header,
+  *:has(> h1.entry-title):not(:has(.panel-layout)),
+  *:has(> h1.page-title):not(:has(.panel-layout)){background-color:transparent !important;border-color:transparent !important}
+}
+
+/* =========================================================
+   5.10 Filtro de segurança das notícias (esconde cartões com palavras proibidas no endereço)
+   ========================================================= */
+.lm-rss-filtro li:has(a.rsswidget[href*="gun"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="firearm"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="weapon"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="rifle"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="pistol"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="ammo"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="police"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="crime"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="criminal"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="arrest"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="terror"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="explosive"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="drug"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="nsfw"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="adult"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="porn"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="-sex"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="stl"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="free-download"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="print-of-the-week"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="arma"]),
+.lm-rss-filtro li:has(a.rsswidget[href*="policia"]){display:none !important}
+
+/* =========================================================
+   8. ACESSIBILIDADE (sempre por último)
+   Sem animações para quem ativou "reduzir movimento" no sistema.
+   ATENÇÃO: não cole nada depois deste bloco. Regras novas
+   devem ir ANTES da seção 8.
+   ========================================================= */
+@media (prefers-reduced-motion: reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{animation:none !important;transition:none !important}
+  body::after{display:none}
+}

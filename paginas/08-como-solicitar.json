@@ -1,0 +1,713 @@
+{
+ "widgets": [
+  {
+   "title": "",
+   "text": "<h1 style=\"text-align:center;color:#224a85;\">Como solicitar uma impressão</h1><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px auto 18px;\" /><p style=\"text-align:center;\">Do arquivo à peça pronta: veja como fazer o seu pedido.</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "265f6021528a4",
+   "_sow_form_timestamp": "1792424471382",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 0,
+    "cell": 0,
+    "id": 0,
+    "widget_id": "9894db5b-3edf-4af0-b0d2-e7dee91d7c9e",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p>&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "48e96dc3c24e4",
+   "_sow_form_timestamp": "1792424471383",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 0,
+    "id": 1,
+    "widget_id": "3e8a99a7-ae8d-4827-9a69-b9f8e1ca8002",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p>Todas as solicitações ao LabMaker são feitas pelo sistema de chamados da EESC. Siga os passos abaixo para que seu pedido seja atendido mais rápido.</p>\n<p><a href=\"https://chamados.eesc.usp.br\"><strong>➜ Abrir chamado em chamados.eesc.usp.br</strong></a></p>\n\n<h3>1. Prepare o arquivo</h3>\n<ul>\n<li>Envie o modelo em <strong>STL, OBJ ou 3MF</strong>. A K2 PRO também aceita STEP.</li>\n<li>Exporte em <strong>milímetros</strong> e confira se a escala está correta.</li>\n<li>Se forem várias peças, envie um arquivo por peça e indique a quantidade de cada uma.</li>\n</ul>\n\n<h3>2. Confira se a peça é imprimível</h3>\n<ul>\n<li><strong>Tamanho</strong>: até 220 x 220 x 250 mm (Ender 3 Pro) ou 300 x 300 x 300 mm (K2 PRO). Peças maiores podem ser divididas e coladas.</li>\n<li><strong>Paredes</strong>: evite espessuras menores que 0,8 mm, porque o bico tem 0,4 mm.</li>\n<li><strong>Balanços</strong>: superfícies com mais de 45° de inclinação precisam de suporte e ficam com acabamento inferior.</li>\n<li><strong>Encaixes</strong>: a precisão é de cerca de ±0,1 mm e furos tendem a sair um pouco menores. Deixe folga de 0,2 a 0,3 mm entre peças que encaixam.</li>\n</ul>\n\n<h3>3. Abra o chamado com estas informações</h3>\n<ul>\n<li>Nome, vínculo (graduação, pós, docente ou grupo de extensão) e departamento</li>\n<li>Aplicação da peça (protótipo, corpo de prova, dispositivo de ensaio, molde...)</li>\n<li>Material desejado, ou peça ajuda para escolher</li>\n<li>Quantidade e prazo desejado</li>\n<li>Medidas ou superfícies críticas, se houver</li>\n</ul>\n\n<h3>4. Acompanhe e retire</h3>\n<p>A equipe avalia o arquivo, pode sugerir ajustes e informa a previsão de impressão pelo próprio chamado. Quando a peça estiver pronta, combine a retirada no Espaço CITE, na Biblioteca da EESC.</p>\n<h3>Quem pode solicitar e quem fornece o filamento</h3><ul><li>Toda a comunidade da USP São Carlos pode usar o LabMaker, desde que o projeto tenha o <strong>amparo de um professor responsável</strong>.</li><li><strong>Institutos fora da EESC</strong> (ICMC, IQSC, IAU e IFSC): o filamento é sempre fornecido pelo solicitante.</li><li><strong>Pedidos da EESC</strong>: avaliados caso a caso. Em geral, pedimos o fornecimento do filamento em projetos com mais de 50 g de material.</li></ul><p>Mais detalhes nas <a href=\"https://sites.usp.br/labmaker/perguntas-frequentes/\">Perguntas frequentes</a>.</p>\n\n<h3>Precisa de ajuda?</h3>\n<p>Não sabe qual material ou impressora usar? Descreva a aplicação no chamado e a equipe orienta. Veja também a <a href=\"https://sites.usp.br/labmaker/impressoras-3d/\">comparação das impressoras</a>.</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "8aefd8d51b1f4",
+   "_sow_form_timestamp": "1792424471383",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 1,
+    "id": 2,
+    "widget_id": "b796789f-697a-42e7-b98b-f9f4efe59bfc",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p>&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "07643a7af9e84",
+   "_sow_form_timestamp": "1792424471383",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 2,
+    "id": 3,
+    "widget_id": "4b68ea3f-3fd2-4a31-9a11-27ab8e7ba463",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3><span style=\"color:#ffffff;\">LabMaker 3D EESC</span></h3><p><span style=\"color:#d6d6d6;\">O LabMaker é o laboratório de impressão 3D da Escola de Engenharia de São Carlos (EESC-USP), dedicado a apoiar projetos de ensino, pesquisa e extensão da comunidade da USP São Carlos.</span></p><p><a style=\"color:#ffffff;\" href=\"https://chamados.eesc.usp.br\"><strong>➜ Solicitar impressão</strong></a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5de3abb0e5d54",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 0,
+    "id": 4,
+    "widget_id": "124fbd9c-37bd-4638-accb-bc18b3b849c3",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">O LABMAKER</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/quem-somos/\">Quem somos</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/equipe/\">Equipe</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/museu/\">Museu de Projetos</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/galeria/\">Galeria</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/noticias/\">Notícias</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "dd5ef190b0434",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 1,
+    "id": 5,
+    "widget_id": "705f93ef-815f-4be7-961f-6ddcccc39dc8",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">SERVIÇOS</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/como-solicitar/\">Como solicitar</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/perguntas-frequentes/\">Perguntas frequentes</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/impressoras-3d/\">Impressoras 3D</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Guia de materiais</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/recursos/\">Recursos para modelar</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "1e696fd930324",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 2,
+    "id": 6,
+    "widget_id": "2848e481-cad8-4ba9-af00-9348884a3c7f",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">CONTATO</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><span style=\"color:#d6d6d6;\">Segunda a sexta-feira</span></p><p><span style=\"color:#d6d6d6;\">Rodrigo Marchiori Mazak</span></p><p><a style=\"color:#d6d6d6;\" href=\"tel:+5516991910335\">(16) 99191-0335</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://chamados.eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Abrir chamado</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "970a55e7f77a4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 3,
+    "id": 7,
+    "widget_id": "300b6508-36d4-416f-a3bd-875ffb504690",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<hr style=\"border:0;border-top:1px solid #4a4a4a;\" /><p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Espaço CITE – Biblioteca da EESC (Serviço de Biblioteca Prof. Dr. Sérgio Rodrigues Fontes)</span></p><p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Área 1 – Av. Trabalhador São-carlense, 400 – Pq. Arnold Schimidt – CEP 13566-590 – São Carlos – SP</span></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "57c1bda6220b4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 3,
+    "cell": 0,
+    "id": 8,
+    "widget_id": "dc7a51ca-cca7-4882-8c2b-238171dedba7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-eesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "EESC-USP",
+   "url": "https://eesc.usp.br",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": true,
+   "full_width": "",
+   "_sow_form_id": "b22d663ce2564",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 1,
+    "id": 9,
+    "widget_id": "b22dfc3f-2468-4354-9a5b-879db1a909b5",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-beesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Biblioteca da EESC – Prof. Dr. Sérgio Rodrigues Fontes",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "60993ffac2444",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 2,
+    "id": 10,
+    "widget_id": "317172cc-7448-48c4-9020-bdba45f31f25",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-cetepe-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "CETEPE – Centro de Engenharia Aplicada ao Ensino",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "58c8f0e90c364",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 3,
+    "id": 11,
+    "widget_id": "64b178ec-e9c5-487a-a1aa-38ac976b94a4",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "134382b6371e4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 0,
+    "id": 12,
+    "widget_id": "3fcc314d-5955-4732-b670-97703d4bb6e3",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "eb7539665c744",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 4,
+    "id": 13,
+    "widget_id": "8f2241c4-b99d-4849-959c-5ce2ffbbddb7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\"><small><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/creditos/\">Créditos</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Portal da EESC</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://www5.usp.br\" target=\"_blank\" rel=\"noopener\">Universidade de São Paulo</a></small></p><p style=\"text-align:center;\"><small><span style=\"color:#d6d6d6;\">© 2026 LabMaker – Escola de Engenharia de São Carlos</span></small></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "573456f4773c4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 5,
+    "cell": 0,
+    "id": 14,
+    "widget_id": "196f4a3a-5550-42b7-aa23-a2b10a41f4b7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  }
+ ],
+ "grids": [
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "45px",
+    "gutter": "24px",
+    "background": "#eef1f6",
+    "padding": "50px 40px",
+    "row_stretch": "full"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "60px",
+    "gutter": "24px",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 4,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "60px 40px 25px 40px"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "0px 40px 10px 40px"
+   }
+  },
+  {
+   "cells": 5,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "center",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "30px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "25px 40px 25px 40px"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "5px 40px 30px 40px"
+   }
+  }
+ ],
+ "grid_cells": [
+  {
+   "grid": 0,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 0,
+   "weight": 0.12,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 1,
+   "weight": 0.76,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 2,
+   "weight": 0.12,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 0,
+   "weight": 1.5,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 3,
+   "weight": 1.1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 3,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 0,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 1,
+   "weight": 1.2,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 2,
+   "weight": 1.4,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 3,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 4,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 5,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  }
+ ],
+ "name": "Como solicitar uma impressão"
+}

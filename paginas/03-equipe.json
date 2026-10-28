@@ -1,0 +1,1268 @@
+{
+ "widgets": [
+  {
+   "title": "",
+   "text": "<h1 style=\"text-align:center;color:#224a85;\">Equipe LabMaker</h1>\n<hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px auto 18px;\" />\n<p style=\"text-align:center;\">Docentes, Biblioteca da EESC, informática e estudantes trabalhando juntos para orientar, tirar dúvidas e viabilizar o seu projeto.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "ce79d6ff93f04",
+   "_sow_form_timestamp": 1792535558027,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510000",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 0,
+    "cell": 0,
+    "id": 0,
+    "widget_id": "a4cdc85b-dbf0-44c4-b393-d7754771ac22",
+    "style": {
+     "class": "lm-anim",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": 515,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Fernando Luiz Lavoie",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": true,
+   "_sow_form_id": "5951d23979b04",
+   "_sow_form_timestamp": 1792535558033,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930510001",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 0,
+    "id": 1,
+    "widget_id": "6b7a1fc0-b386-4050-8c89-12504069c9b3",
+    "style": {
+     "class": "lm-anim lm-media lm-equipe-foto",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3 style=\"text-align:center;\">Fernando Luiz Lavoie</h3>\n<p style=\"text-align:center;\"><em>Professor Doutor</em></p>\n<p style=\"text-align:center;\">Departamento de Engenharia de Transportes da EESC-USP, área de Geotecnia. Pesquisa a durabilidade de geomembranas e análises numéricas de túneis e do espaço subterrâneo para o transporte urbano.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "4789db88f5be4",
+   "_sow_form_timestamp": 1792535558033,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510002",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 0,
+    "id": 2,
+    "widget_id": "8e85af14-da8d-4059-9d1b-5261ab50285f",
+    "style": {
+     "class": "lm-anim",
+     "padding": "0px 22px",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": 9691,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Elenise Maria de Araújo",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "4417276ad1924",
+   "_sow_form_timestamp": 1792535558034,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930510003",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 1,
+    "id": 3,
+    "widget_id": "92147e6e-68d2-4248-be8e-7726ed09673a",
+    "style": {
+     "class": "lm-anim lm-media lm-equipe-foto",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3 style=\"text-align:center;\">Elenise Maria de Araújo</h3>\n<p style=\"text-align:center;\"><em>Chefe Técnica do Serviço de Biblioteca</em></p>\n<p style=\"text-align:center;\">Chefia o Serviço de Biblioteca Prof. Dr. Sérgio Rodrigues Fontes da EESC-USP. Doutora e mestre em Engenharia de Produção, atua em iniciativas de acessibilidade em bibliotecas universitárias.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "a148ff3fa8854",
+   "_sow_form_timestamp": 1792535558034,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510004",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 1,
+    "id": 4,
+    "widget_id": "3dbcb3f3-ff4b-4a5f-abdc-4fe781fa1227",
+    "style": {
+     "class": "lm-anim",
+     "padding": "0px 22px",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": 511,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Masaki Kawabata Neto",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": true,
+   "_sow_form_id": "ee4dc3646ed94",
+   "_sow_form_timestamp": 1792535558034,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930510005",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 2,
+    "id": 5,
+    "widget_id": "a3aed4ce-be22-4a05-960c-49d6063521b8",
+    "style": {
+     "class": "lm-anim lm-media lm-equipe-foto",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3 style=\"text-align:center;\">Masaki Kawabata Neto</h3>\n<p style=\"text-align:center;\"><em>Analista de Sistemas</em></p>\n<p style=\"text-align:center;\">Suporte tecnológico na EESC-USP, junto à Informática e ao Departamento de Engenharia de Estruturas (SET).</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5eb4bcae49054",
+   "_sow_form_timestamp": 1792535558035,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510006",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 2,
+    "id": 6,
+    "widget_id": "72ce6c3a-db1c-4cca-9737-7d19aa541bd9",
+    "style": {
+     "class": "lm-anim",
+     "padding": "0px 22px",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": 9692,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Rodrigo Marchiori Mazak",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "3048e433a3664",
+   "_sow_form_timestamp": 1792535558035,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930510007",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 0,
+    "id": 7,
+    "widget_id": "3acfe1bb-3085-4618-bc64-c9951430e034",
+    "style": {
+     "class": "lm-anim lm-media lm-equipe-foto",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3 style=\"text-align:center;\">Rodrigo Marchiori Mazak</h3>\n<p style=\"text-align:center;\"><em>Serviço de Biblioteca</em></p>\n<p style=\"text-align:center;\">Servidor técnico-administrativo da EESC-USP, vinculado ao Serviço de Biblioteca, com atuação prévia no Serviço de Assistência aos Colegiados.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": "on",
+   "_sow_form_id": "6735e74d1fd74",
+   "_sow_form_timestamp": "1792535558035",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": true,
+    "grid": 2,
+    "cell": 0,
+    "id": 8,
+    "widget_id": "0ac85aac-99d5-4e55-be0f-628122a2bee0",
+    "style": {
+     "id": "",
+     "class": "lm-anim",
+     "widget_css": "",
+     "mobile_css": "",
+     "margin": "",
+     "padding": "0px 22px",
+     "mobile_margin": "",
+     "mobile_padding": "",
+     "background": "",
+     "background_image_attachment": "0",
+     "background_image_attachment_fallback": "",
+     "background_display": "tile",
+     "background_image_alt": "",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "",
+     "border_thickness": "1px",
+     "border_radius": "",
+     "font_color": "",
+     "link_color": "",
+     "link_color_hover": "",
+     "box_shadow_color": "rgba(0,0,0,0.15)",
+     "box_shadow_offset_horizontal": "0",
+     "box_shadow_offset_vertical": "5px",
+     "box_shadow_blur": "15px",
+     "box_shadow_spread": "",
+     "box_shadow_hover_color": "rgba(0,0,0,0.30)",
+     "box_shadow_hover_offset_horizontal": "0",
+     "box_shadow_hover_offset_vertical": "5px",
+     "box_shadow_hover_blur": "15px",
+     "box_shadow_hover_spread": ""
+    }
+   }
+  },
+  {
+   "image": 9882,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Rodrigo Marchiori Mazak",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "1122665056ad7ead7c36f2516497858",
+   "_sow_form_timestamp": 1792535558035,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930510009",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 1,
+    "id": 9,
+    "widget_id": "f6427e7e-a872-4120-aca9-8a7474d75d25",
+    "style": {
+     "class": "lm-anim lm-media lm-equipe-foto",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3 style=\"text-align:center;\">Umberto Carlos Patracon</h3>\n<p style=\"text-align:center;\"><em>Técnico de Apoio Institucional do Serviço de Comunicação e Marketing</em></p>\n<p style=\"text-align:center;\">Atua no Serviço de Comunicação e Marketing da EESC-USP. É responsável por produções audiovisuais, fotografias institucionais e suporte técnico em mídias, colaborando ativamente na modernização digital da universidade.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "11174101786ad7ead9189a8382539657",
+   "_sow_form_timestamp": 1792535558036,
+   "so_sidebar_emulator_id": "sow-editor-930510010",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 1,
+    "id": 10,
+    "widget_id": "14c03ab5-3b43-4d22-a86b-e1fcb49a4a66",
+    "style": {
+     "class": "lm-anim",
+     "padding": "0px 22px",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": 516,
+   "image_fallback": "",
+   "size": "large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Guilherme Antonio Cavalcante Pinto",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": true,
+   "_sow_form_id": "862ff555bedf4",
+   "_sow_form_timestamp": 1792535558036,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930510011",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 2,
+    "id": 11,
+    "widget_id": "be3c6879-0774-4fc1-a01a-8ef6c269229b",
+    "style": {
+     "class": "lm-anim lm-media lm-equipe-foto",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3 style=\"text-align:center;\">Guilherme Antonio Cavalcante Pinto</h3>\n<p style=\"text-align:center;\"><em>Estudante e estagiário</em></p>\n<p style=\"text-align:center;\">Estudante de Engenharia de Materiais e Manufatura na EESC-USP. Estagiário do LabMaker, com foco em impressão 3D.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "ab096e53b4fa4",
+   "_sow_form_timestamp": 1792535558036,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510012",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 2,
+    "id": 12,
+    "widget_id": "431df276-bae0-4375-9a9c-5914e6ee24e2",
+    "style": {
+     "class": "lm-anim",
+     "padding": "0px 22px",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p>&nbsp;</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "693545b7e7714",
+   "_sow_form_timestamp": 1792535558037,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510013",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 3,
+    "cell": 0,
+    "id": 13,
+    "widget_id": "426f2d13-7c86-42bf-bf91-fad6e0160ff4",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3><span style=\"color:#ffffff;\">LabMaker 3D EESC</span></h3>\n<p><span style=\"color:#d6d6d6;\">O LabMaker é o laboratório de impressão 3D da Escola de Engenharia de São Carlos (EESC-USP), dedicado a apoiar projetos de ensino, pesquisa e extensão da comunidade da USP São Carlos.</span></p>\n<p><a style=\"color:#ffffff;\" href=\"https://chamados.eesc.usp.br\"><strong>➜ Solicitar impressão</strong></a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5de3abb0e5d54",
+   "_sow_form_timestamp": 1792535558037,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510014",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 0,
+    "id": 14,
+    "widget_id": "124fbd9c-37bd-4638-accb-bc18b3b849c3",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">O LABMAKER</span></strong></p>\n<hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" />\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/quem-somos/\">Quem somos</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/equipe/\">Equipe</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/museu/\">Museu de Projetos</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/galeria/\">Galeria</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/noticias/\">Notícias</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "dd5ef190b0434",
+   "_sow_form_timestamp": 1792535558037,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510015",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 1,
+    "id": 15,
+    "widget_id": "705f93ef-815f-4be7-961f-6ddcccc39dc8",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">SERVIÇOS</span></strong></p>\n<hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" />\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/como-solicitar/\">Como solicitar</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/perguntas-frequentes/\">Perguntas frequentes</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/impressoras-3d/\">Impressoras 3D</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Guia de materiais</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/recursos/\">Recursos para modelar</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "1e696fd930324",
+   "_sow_form_timestamp": 1792535558038,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510016",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 2,
+    "id": 16,
+    "widget_id": "2848e481-cad8-4ba9-af00-9348884a3c7f",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">CONTATO</span></strong></p>\n<hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" />\n<p><span style=\"color:#d6d6d6;\">Segunda a sexta-feira</span></p>\n<p><span style=\"color:#d6d6d6;\">Rodrigo Marchiori Mazak</span></p>\n<p><a style=\"color:#d6d6d6;\" href=\"tel:+5516991910335\">(16) 99191-0335</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://chamados.eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Abrir chamado</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "970a55e7f77a4",
+   "_sow_form_timestamp": 1792535558038,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510017",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 3,
+    "id": 17,
+    "widget_id": "300b6508-36d4-416f-a3bd-875ffb504690",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<hr style=\"border:0;border-top:1px solid #4a4a4a;\" />\n<p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Espaço CITE – Biblioteca da EESC (Serviço de Biblioteca Prof. Dr. Sérgio Rodrigues Fontes)</span></p>\n<p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Área 1 – Av. Trabalhador São-carlense, 400 – Pq. Arnold Schimidt – CEP 13566-590 – São Carlos – SP</span></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "57c1bda6220b4",
+   "_sow_form_timestamp": 1792535558038,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510018",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 5,
+    "cell": 0,
+    "id": 18,
+    "widget_id": "dc7a51ca-cca7-4882-8c2b-238171dedba7",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "134382b6371e4",
+   "_sow_form_timestamp": 1792535558039,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510019",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 0,
+    "id": 19,
+    "widget_id": "3fcc314d-5955-4732-b670-97703d4bb6e3",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-eesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "EESC-USP",
+   "url": "https://eesc.usp.br",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": true,
+   "full_width": "",
+   "_sow_form_id": "b22d663ce2564",
+   "_sow_form_timestamp": 1792535558039,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930510020",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 1,
+    "id": 20,
+    "widget_id": "b22dfc3f-2468-4354-9a5b-879db1a909b5",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-beesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Biblioteca da EESC – Prof. Dr. Sérgio Rodrigues Fontes",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "60993ffac2444",
+   "_sow_form_timestamp": 1792535558039,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930510021",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 2,
+    "id": 21,
+    "widget_id": "317172cc-7448-48c4-9020-bdba45f31f25",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-cetepe-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "CETEPE – Centro de Engenharia Aplicada ao Ensino",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "58c8f0e90c364",
+   "_sow_form_timestamp": 1792535558039,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930510022",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 3,
+    "id": 22,
+    "widget_id": "64b178ec-e9c5-487a-a1aa-38ac976b94a4",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "eb7539665c744",
+   "_sow_form_timestamp": 1792535558040,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510023",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 4,
+    "id": 23,
+    "widget_id": "8f2241c4-b99d-4849-959c-5ce2ffbbddb7",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\"><small><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/creditos/\">Créditos</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Portal da EESC</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://www5.usp.br\" target=\"_blank\" rel=\"noopener\">Universidade de São Paulo</a></small></p>\n<p style=\"text-align:center;\"><small><span style=\"color:#d6d6d6;\">© 2026 LabMaker – Escola de Engenharia de São Carlos</span></small></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "573456f4773c4",
+   "_sow_form_timestamp": 1792535558040,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930510024",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 7,
+    "cell": 0,
+    "id": 24,
+    "widget_id": "196f4a3a-5550-42b7-aa23-a2b10a41f4b7",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  }
+ ],
+ "grids": [
+  {
+   "cells": 1,
+   "style": {
+    "padding": "50px 40px",
+    "background": "#eef1f6",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "45px",
+    "gutter": "24px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "class": "lm-cascata lm-equipe",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "cell_alignment": "stretch"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "id": "",
+    "class": "lm-cascata lm-equipe",
+    "cell_class": "",
+    "row_css": "",
+    "mobile_css": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "padding": "",
+    "row_stretch": "",
+    "collapse_behaviour": "",
+    "collapse_order": "",
+    "cell_alignment": "stretch",
+    "mobile_bottom_margin": "",
+    "mobile_cell_margin": "",
+    "mobile_padding": "",
+    "background": "",
+    "background_image_attachment": "0",
+    "background_image_attachment_fallback": "",
+    "background_image_alt": "",
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_color": "",
+    "border_thickness": "1px",
+    "border_radius": "",
+    "box_shadow_color": "rgba(0,0,0,0.15)",
+    "box_shadow_offset_horizontal": "0",
+    "box_shadow_offset_vertical": "5px",
+    "box_shadow_blur": "15px",
+    "box_shadow_spread": "",
+    "box_shadow_hover_color": "rgba(0,0,0,0.30)",
+    "box_shadow_hover_offset_horizontal": "0",
+    "box_shadow_hover_offset_vertical": "5px",
+    "box_shadow_hover_blur": "15px",
+    "box_shadow_hover_spread": ""
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "30px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 4,
+   "style": {
+    "padding": "60px 40px 25px 40px",
+    "background": "#262626",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "padding": "0px 40px 10px 40px",
+    "background": "#262626",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 5,
+   "style": {
+    "padding": "25px 40px 25px 40px",
+    "background": "#262626",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "30px",
+    "row_stretch": "full",
+    "cell_alignment": "center"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "padding": "5px 40px 30px 40px",
+    "background": "#262626",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  }
+ ],
+ "grid_cells": [
+  {
+   "grid": 0,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "class": "lm-card lm-equipe-card",
+    "padding": "0px 0px 22px 0px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_color": "#dde3ec",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "class": "lm-card lm-equipe-card",
+    "padding": "0px 0px 22px 0px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_color": "#dde3ec",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 2,
+   "weight": 1,
+   "style": {
+    "class": "lm-card lm-equipe-card",
+    "padding": "0px 0px 22px 0px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_color": "#dde3ec",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 0,
+   "weight": 0.3333333333333333,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "class": "lm-card lm-equipe-card",
+    "padding": "0px 0px 22px 0px",
+    "background": "#ffffff",
+    "border_color": "#dde3ec"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 1,
+   "weight": 0.3333333333333333,
+   "style": {
+    "class": "lm-card lm-equipe-card",
+    "padding": "0px 0px 22px 0px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_color": "#dde3ec",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 2,
+   "weight": 0.3333333333333333,
+   "style": {
+    "class": "lm-card lm-equipe-card",
+    "padding": "0px 0px 22px 0px",
+    "background": "#ffffff",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_color": "#dde3ec",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 3,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 0,
+   "weight": 1.5,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 2,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 3,
+   "weight": 1.1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 5,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 0,
+   "weight": 0.8,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 1,
+   "weight": 1.2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 2,
+   "weight": 1.4,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 3,
+   "weight": 0.8,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 4,
+   "weight": 0.8,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 7,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  }
+ ],
+ "name": "Equipe LabMaker"
+}

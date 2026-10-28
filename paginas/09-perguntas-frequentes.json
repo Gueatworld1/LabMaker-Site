@@ -1,0 +1,1692 @@
+{
+ "widgets": [
+  {
+   "title": "",
+   "text": "<h1 style=\"color:#224a85;\">Perguntas frequentes</h1>\n<p>Tudo o que você precisa saber antes de pedir uma impressão no LabMaker. Não encontrou sua dúvida? Pergunte pelo <a href=\"https://chamados.eesc.usp.br\">sistema de chamados</a>.</p>\n<p><a href=\"#quem-pode\">Quem pode usar</a> &nbsp;·&nbsp; <a href=\"#filamento\">Filamento</a> &nbsp;·&nbsp; <a href=\"#pedidos\">Pedidos e prazos</a> &nbsp;·&nbsp; <a href=\"#arquivos\">Arquivos e projeto</a> &nbsp;·&nbsp; <a href=\"#impressoras\">Impressoras e materiais</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "612f996d82754",
+   "_sow_form_timestamp": 1792371024250,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 0,
+    "cell": 0,
+    "id": 0,
+    "widget_id": "2ff70ab0-e6fc-4d3d-b7df-33671b9c4011",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310000"
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Quem pode usar</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "6e5f47306ff44",
+   "_sow_form_timestamp": 1792371024251,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 1,
+    "cell": 0,
+    "id": 1,
+    "widget_id": "3bb87b0c-5cb2-4e11-9bc9-77741e25a7d6",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310001"
+  },
+  {
+   "title": "",
+   "text": "<h3>Quem pode usar o LabMaker?</h3>\n<p>Toda a comunidade da USP São Carlos: alunos de graduação e pós-graduação, docentes, pesquisadores e grupos de extensão, da EESC e dos demais institutos do campus (ICMC, IQSC, IAU e IFSC).</p>\n<p>A única condição é que o projeto tenha o <strong>amparo de um professor responsável</strong>, que acompanhe o trabalho e esteja ciente do pedido.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "dfb5c58297cd4",
+   "_sow_form_timestamp": 1792371024251,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 2,
+    "cell": 0,
+    "id": 2,
+    "widget_id": "807f2c84-f33f-447d-ab3b-bec3a9ba8f0b",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310002"
+  },
+  {
+   "title": "",
+   "text": "<h3>Por que preciso de um professor responsável?</h3>\n<p>O LabMaker apoia projetos acadêmicos, de pesquisa e de extensão. O professor responsável garante esse vínculo e ajuda a equipe a priorizar os pedidos. Pode ser o seu orientador, o professor de uma disciplina ou o docente que acompanha o seu grupo de extensão.</p>\n<p>Informe o nome dele no chamado.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "39f3b7db00a54",
+   "_sow_form_timestamp": 1792371024251,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 2,
+    "cell": 0,
+    "id": 3,
+    "widget_id": "bb279047-07e7-4582-bd74-decf7746f86f",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310003"
+  },
+  {
+   "title": "",
+   "text": "<h3>Sou de outro instituto do campus. Posso usar?</h3>\n<p>Sim. ICMC, IQSC, IAU e IFSC são bem-vindos, nas mesmas condições: projeto com professor responsável e <strong>fornecimento do filamento</strong> (veja a seção abaixo).</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "62b6a4f841564",
+   "_sow_form_timestamp": 1792371024252,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 2,
+    "cell": 1,
+    "id": 4,
+    "widget_id": "0cb2023a-3213-4ab0-9fd0-d332208b4c1a",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310004"
+  },
+  {
+   "title": "",
+   "text": "<h3>Posso imprimir algo pessoal?</h3>\n<p>O foco do laboratório são projetos acadêmicos, de pesquisa e de extensão. Pedidos sem vínculo com um projeto acompanhado por um professor não são atendidos.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "193520783ff74",
+   "_sow_form_timestamp": 1792371024252,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 2,
+    "cell": 1,
+    "id": 5,
+    "widget_id": "e5981b52-f5ee-47f3-9989-38d40c4d1913",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310005"
+  },
+  {
+   "title": "",
+   "text": "<h2><span style=\"color:#ffffff;\">Filamento: quem fornece?</span></h2>\n<p><span style=\"color:#ffffff;\"><strong>Institutos fora da EESC (ICMC, IQSC, IAU, IFSC):</strong> o filamento é sempre fornecido pelo solicitante.</span></p>\n<p><span style=\"color:#ffffff;\"><strong>Pedidos da EESC:</strong> avaliamos caso a caso. Em geral, pedimos que o solicitante forneça o filamento em projetos que usem <strong>mais de 50 g</strong> de material.</span></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "278c089760134",
+   "_sow_form_timestamp": 1792371024253,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 3,
+    "cell": 0,
+    "id": 6,
+    "widget_id": "6961debe-8345-4fee-8695-7135e96423aa",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310006"
+  },
+  {
+   "title": "",
+   "text": "<h3>Quanto é 50 g de filamento?</h3>\n<p>Com filamento de 1,75 mm, 50 g de PLA equivalem a cerca de 17 metros de fio. Na prática, isso corresponde a uma peça do tamanho de um suporte de celular robusto ou de algumas peças pequenas. Peças grandes ou com preenchimento alto passam disso com facilidade.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "a9dece3558934",
+   "_sow_form_timestamp": 1792371024253,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 4,
+    "cell": 0,
+    "id": 7,
+    "widget_id": "c2e4bcfd-dc82-4a1c-a14e-a0245787159b",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310007"
+  },
+  {
+   "title": "",
+   "text": "<h3>Como sei quanto material minha peça vai usar?</h3>\n<p>O programa fatiador (Creality Print, OrcaSlicer ou Cura) mostra o peso estimado em gramas antes de imprimir. Se você não tiver como calcular, a equipe faz a estimativa e informa no chamado se será preciso fornecer o filamento.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5a8001966e224",
+   "_sow_form_timestamp": 1792371024253,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 4,
+    "cell": 0,
+    "id": 8,
+    "widget_id": "93d02b23-7a93-4f75-8abd-2072cbd6d4aa",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310008"
+  },
+  {
+   "title": "",
+   "text": "<h3>Que filamento devo trazer?</h3>\n<ul>\n<li><strong>Diâmetro de 1,75 mm</strong>, que é o padrão das duas impressoras.</li>\n<li>Material combinado com a equipe (PLA, PETG...). Veja o <a href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Guia de materiais</a>.</li>\n<li>Bobina lacrada ou bem armazenada. Filamento úmido gera falhas, principalmente PETG e nylon.</li>\n<li>Para a K2 PRO, prefira <strong>bobinas de plástico</strong>, porque o sistema de troca automática não aceita carretéis de papelão.</li>\n</ul>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5517561a7a374",
+   "_sow_form_timestamp": 1792371024254,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 4,
+    "cell": 1,
+    "id": 9,
+    "widget_id": "beac9e1c-ea77-406b-a517-6a60b1e4f2d5",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310009"
+  },
+  {
+   "title": "",
+   "text": "<h3>E se sobrar filamento?</h3>\n<p>A bobina é sua. Combine com a equipe a devolução do que sobrar após a impressão.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "0d22123d22ed4",
+   "_sow_form_timestamp": 1792371024254,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 4,
+    "cell": 1,
+    "id": 10,
+    "widget_id": "6bd2de25-e4aa-4338-8f2b-9bae5f03a0cc",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310010"
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Pedidos e prazos</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "b8bf052a64224",
+   "_sow_form_timestamp": 1792371024254,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 5,
+    "cell": 0,
+    "id": 11,
+    "widget_id": "60b5f81c-6245-4e14-a87a-abe4e02b58fb",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310011"
+  },
+  {
+   "title": "",
+   "text": "<h3>Como faço um pedido?</h3>\n<p>Abra um chamado em <a href=\"https://chamados.eesc.usp.br\">chamados.eesc.usp.br</a> com o arquivo da peça, a aplicação, o material desejado, a quantidade e o nome do professor responsável. O passo a passo completo está em <a href=\"https://sites.usp.br/labmaker/como-solicitar/\">Como solicitar uma impressão</a>.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "f3fe816110f64",
+   "_sow_form_timestamp": 1792371024255,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 6,
+    "cell": 0,
+    "id": 12,
+    "widget_id": "e1524020-7334-4daa-a4ad-f6686d5a30fb",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310012"
+  },
+  {
+   "title": "",
+   "text": "<h3>Quanto tempo leva?</h3>\n<p>Depende do tamanho da peça, do preenchimento, do material e da fila de pedidos. Uma peça pequena imprime em poucas horas, e peças grandes podem levar mais de um dia de máquina. A previsão é informada no próprio chamado. Se o seu prazo é apertado, avise logo no pedido.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "65ab0a12df0b4",
+   "_sow_form_timestamp": 1792371024255,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 6,
+    "cell": 0,
+    "id": 13,
+    "widget_id": "93765d9b-f7cc-45c6-be16-a4fd7a6d4b95",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310013"
+  },
+  {
+   "title": "",
+   "text": "<h3>Posso acompanhar a impressão?</h3>\n<p>Você acompanha o andamento pelo chamado, e a equipe avisa quando a peça estiver pronta para retirada no Espaço CITE, na Biblioteca da EESC.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "37d22a0a83874",
+   "_sow_form_timestamp": 1792371024255,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 6,
+    "cell": 1,
+    "id": 14,
+    "widget_id": "efd7d9ec-2e0d-4784-b72e-102580d1d2f3",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310014"
+  },
+  {
+   "title": "",
+   "text": "<h3>E se a peça sair com defeito?</h3>\n<p>A equipe confere as peças antes da entrega. Se o problema vier do arquivo (paredes finas demais, escala errada), a equipe orienta o ajuste para uma nova tentativa.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "8312052a92ea4",
+   "_sow_form_timestamp": 1792371024256,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 6,
+    "cell": 1,
+    "id": 15,
+    "widget_id": "7e3f57fb-5bc3-4d05-8138-212f86c8f21b",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310015"
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Arquivos e projeto</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "078da6a013a14",
+   "_sow_form_timestamp": 1792371024256,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 7,
+    "cell": 0,
+    "id": 16,
+    "widget_id": "947483fa-8929-4a45-b953-298fe0d6540d",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310016"
+  },
+  {
+   "title": "",
+   "text": "<h3>Em que formato envio o arquivo?</h3>\n<p><strong>STL, OBJ ou 3MF</strong>, exportado em <strong>milímetros</strong>. A K2 PRO também aceita STEP. Não é preciso enviar o arquivo já fatiado, porque a equipe faz essa etapa.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "eee817234f5c4",
+   "_sow_form_timestamp": 1792371024256,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 8,
+    "cell": 0,
+    "id": 17,
+    "widget_id": "e1dc2c74-7786-486f-a855-52956d0a2f93",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310017"
+  },
+  {
+   "title": "",
+   "text": "<h3>Não sei modelar em 3D. E agora?</h3>\n<p>Comece pelo Tinkercad, gratuito e no navegador, ou use modelos prontos de repositórios abertos. Veja a página <a href=\"https://sites.usp.br/labmaker/recursos/\">Recursos para modelar e imprimir</a>.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "b4ef3bc02ea04",
+   "_sow_form_timestamp": 1792371024257,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 8,
+    "cell": 0,
+    "id": 18,
+    "widget_id": "e2732926-cd26-49bd-bef8-e8a89d1365be",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310018"
+  },
+  {
+   "title": "",
+   "text": "<h3>Qual é a precisão das peças?</h3>\n<p>Cerca de <strong>±0,1 mm</strong>. Para encaixes, deixe uma folga de 0,2 a 0,3 mm entre as peças. Furos costumam sair um pouco menores que o desenho, e paredes devem ter pelo menos 0,8 mm.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "02c0a8a602484",
+   "_sow_form_timestamp": 1792371024257,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 8,
+    "cell": 1,
+    "id": 19,
+    "widget_id": "472fdc98-f7b1-4fd9-a268-edb414988fce",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310019"
+  },
+  {
+   "title": "",
+   "text": "<h3>Minha peça é maior que a impressora.</h3>\n<p>Ela pode ser dividida em partes que depois são coladas ou encaixadas. Peças de até 300 × 300 × 300 mm cabem inteiras na K2 PRO.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "85ffaf806f4b4",
+   "_sow_form_timestamp": 1792371024257,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 8,
+    "cell": 1,
+    "id": 20,
+    "widget_id": "98654abe-0309-4280-9622-84261c301a3c",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310020"
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Impressoras e materiais</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "45ea2a01c16b4",
+   "_sow_form_timestamp": 1792371024258,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 9,
+    "cell": 0,
+    "id": 21,
+    "widget_id": "bc5dbce0-f529-4c93-8211-2960a864583f",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310021"
+  },
+  {
+   "title": "",
+   "text": "<h3>Quais impressoras vocês têm?</h3>\n<p>Uma <strong>Creality Ender 3 Pro</strong> (220 × 220 × 250 mm), para a maioria das demandas, e uma <strong>Creality K2 PRO Combo</strong> (300 × 300 × 300 mm), mais rápida, com câmara aquecida e troca automática de até 4 filamentos. <a href=\"https://sites.usp.br/labmaker/impressoras-3d/\">Compare as impressoras</a>.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "471ea5f1f0014",
+   "_sow_form_timestamp": 1792371024258,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 10,
+    "cell": 0,
+    "id": 22,
+    "widget_id": "8036ebde-de7c-4769-8199-6753cd7be77c",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310022"
+  },
+  {
+   "title": "",
+   "text": "<h3>Qual material escolher?</h3>\n<p>PLA para protótipos e peças sem esforço térmico, PETG para peças funcionais, TPU para peças flexíveis e ABS/ASA ou compósitos com fibra de carbono para aplicações técnicas. Veja o <a href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Guia de materiais</a>.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "f47bb4336c5e4",
+   "_sow_form_timestamp": 1792371024258,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 10,
+    "cell": 0,
+    "id": 23,
+    "widget_id": "b52ca421-584c-442c-af77-056ea383f3d9",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310023"
+  },
+  {
+   "title": "",
+   "text": "<h3>Dá para imprimir em várias cores?</h3>\n<p>Sim, na K2 PRO, com até 4 filamentos na mesma peça. O sistema de troca não aceita TPU, que é impresso com uma cor só.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "c7b314c8bff34",
+   "_sow_form_timestamp": 1792371024259,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 10,
+    "cell": 1,
+    "id": 24,
+    "widget_id": "5c4ead3f-78e6-46d3-b873-2e98b8e13c14",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310024"
+  },
+  {
+   "title": "",
+   "text": "<h3>Vocês imprimem em resina ou metal?</h3>\n<p>Não. O LabMaker trabalha com impressão por filamento (FDM).</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "9f87d5f7a2244",
+   "_sow_form_timestamp": 1792371024259,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 10,
+    "cell": 1,
+    "id": 25,
+    "widget_id": "065c49d6-c991-4372-a538-a6540317b109",
+    "style": {
+     "padding": "22px 24px",
+     "background": "#ffffff",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_color": "#dde3ec",
+     "border_thickness": "1px",
+     "margin": "0 0 20px 0",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310025"
+  },
+  {
+   "title": "",
+   "text": "<h2 style=\"text-transform:uppercase;letter-spacing:1.5px;color:#224a85;\">Ainda com dúvida?</h2><hr style=\"width:56px;border:0;border-top:3px solid #224a85;margin:6px 0 18px;\" />\n<p>Descreva o seu projeto no <a href=\"https://chamados.eesc.usp.br\">sistema de chamados</a> que a equipe orienta. &nbsp;<a href=\"#topo\">↑ Voltar ao topo</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "723e2941e3234",
+   "_sow_form_timestamp": 1792371024259,
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "grid": 11,
+    "cell": 0,
+    "id": 26,
+    "widget_id": "1eec942f-b793-422e-85b7-67aca03775e0",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px",
+     "class": "lm-anim"
+    }
+   },
+   "so_sidebar_emulator_id": "sow-editor-910310026"
+  },
+  {
+   "title": "",
+   "text": "<h3><span style=\"color:#ffffff;\">LabMaker 3D EESC</span></h3><p><span style=\"color:#d6d6d6;\">O LabMaker é o laboratório de impressão 3D da Escola de Engenharia de São Carlos (EESC-USP), dedicado a apoiar projetos de ensino, pesquisa e extensão da comunidade da USP São Carlos.</span></p><p><a style=\"color:#ffffff;\" href=\"https://chamados.eesc.usp.br\"><strong>➜ Solicitar impressão</strong></a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5de3abb0e5d54",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 0,
+    "id": 27,
+    "widget_id": "124fbd9c-37bd-4638-accb-bc18b3b849c3",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">O LABMAKER</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/quem-somos/\">Quem somos</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/equipe/\">Equipe</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/museu/\">Museu de Projetos</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/galeria/\">Galeria</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/noticias/\">Notícias</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "dd5ef190b0434",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 1,
+    "id": 28,
+    "widget_id": "705f93ef-815f-4be7-961f-6ddcccc39dc8",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">SERVIÇOS</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/como-solicitar/\">Como solicitar</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/perguntas-frequentes/\">Perguntas frequentes</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/impressoras-3d/\">Impressoras 3D</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Guia de materiais</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/recursos/\">Recursos para modelar</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "1e696fd930324",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 2,
+    "id": 29,
+    "widget_id": "2848e481-cad8-4ba9-af00-9348884a3c7f",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">CONTATO</span></strong></p><hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" /><p><span style=\"color:#d6d6d6;\">Segunda a sexta-feira</span></p><p><span style=\"color:#d6d6d6;\">Rodrigo Marchiori Mazak</span></p><p><a style=\"color:#d6d6d6;\" href=\"tel:+5516991910335\">(16) 99191-0335</a></p><p><a style=\"color:#d6d6d6;\" href=\"https://chamados.eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Abrir chamado</a></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "970a55e7f77a4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 3,
+    "id": 30,
+    "widget_id": "300b6508-36d4-416f-a3bd-875ffb504690",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<hr style=\"border:0;border-top:1px solid #4a4a4a;\" /><p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Espaço CITE – Biblioteca da EESC (Serviço de Biblioteca Prof. Dr. Sérgio Rodrigues Fontes)</span></p><p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Área 1 – Av. Trabalhador São-carlense, 400 – Pq. Arnold Schimidt – CEP 13566-590 – São Carlos – SP</span></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "57c1bda6220b4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 13,
+    "cell": 0,
+    "id": 31,
+    "widget_id": "dc7a51ca-cca7-4882-8c2b-238171dedba7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-eesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "EESC-USP",
+   "url": "https://eesc.usp.br",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": true,
+   "full_width": "",
+   "_sow_form_id": "b22d663ce2564",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 14,
+    "cell": 1,
+    "id": 32,
+    "widget_id": "b22dfc3f-2468-4354-9a5b-879db1a909b5",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-beesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Biblioteca da EESC – Prof. Dr. Sérgio Rodrigues Fontes",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "60993ffac2444",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 14,
+    "cell": 2,
+    "id": 33,
+    "widget_id": "317172cc-7448-48c4-9020-bdba45f31f25",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-cetepe-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "CETEPE – Centro de Engenharia Aplicada ao Ensino",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "58c8f0e90c364",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 14,
+    "cell": 3,
+    "id": 34,
+    "widget_id": "64b178ec-e9c5-487a-a1aa-38ac976b94a4",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "134382b6371e4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 14,
+    "cell": 0,
+    "id": 35,
+    "widget_id": "3fcc314d-5955-4732-b670-97703d4bb6e3",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "eb7539665c744",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 14,
+    "cell": 4,
+    "id": 36,
+    "widget_id": "8f2241c4-b99d-4849-959c-5ce2ffbbddb7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\"><small><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/creditos/\">Créditos</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Portal da EESC</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://www5.usp.br\" target=\"_blank\" rel=\"noopener\">Universidade de São Paulo</a></small></p><p style=\"text-align:center;\"><small><span style=\"color:#d6d6d6;\">© 2026 LabMaker – Escola de Engenharia de São Carlos</span></small></p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "573456f4773c4",
+   "_sow_form_timestamp": "1792424471364",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 15,
+    "cell": 0,
+    "id": 37,
+    "widget_id": "196f4a3a-5550-42b7-aa23-a2b10a41f4b7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  }
+ ],
+ "grids": [
+  {
+   "cells": 1,
+   "style": {
+    "id": "topo",
+    "padding": "45px 40px",
+    "background": "#eef1f6",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "35px",
+    "gutter": "24px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "id": "quem-pode",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "18px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "40px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "id": "filamento",
+    "padding": "28px 32px",
+    "background": "#224a85",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "22px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "40px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "id": "pedidos",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "18px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "40px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "id": "arquivos",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "18px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "40px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "id": "impressoras",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "18px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "40px",
+    "gutter": "24px",
+    "cell_alignment": "flex-start",
+    "class": "lm-cascata"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "padding": "35px 40px",
+    "background": "#eef1f6",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "24px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 4,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "60px 40px 25px 40px"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "0px 40px 10px 40px"
+   }
+  },
+  {
+   "cells": 5,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "center",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "30px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "25px 40px 25px 40px"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "background": "#262626",
+    "row_stretch": "full",
+    "padding": "5px 40px 30px 40px"
+   }
+  }
+ ],
+ "grid_cells": [
+  {
+   "grid": 0,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 3,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 5,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 7,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 8,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 8,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 9,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 10,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 10,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 12,
+   "index": 0,
+   "weight": 1.5,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 12,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 12,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 12,
+   "index": 3,
+   "weight": 1.1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 13,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 14,
+   "index": 0,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 14,
+   "index": 1,
+   "weight": 1.2,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 14,
+   "index": 2,
+   "weight": 1.4,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 14,
+   "index": 3,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 14,
+   "index": 4,
+   "weight": 0.8,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 15,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  }
+ ],
+ "name": "Perguntas frequentes"
+}

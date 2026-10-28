@@ -1,0 +1,4278 @@
+{
+ "name": "Galeria",
+ "widgets": [
+  {
+   "title": "",
+   "text": "<h1 style=\"color:#224a85;\">Galeria</h1>\n<p>Registros rápidos do dia a dia do LabMaker: peças saindo da mesa, testes, detalhes de impressão e o laboratório em funcionamento. Quer a história completa de um projeto? Visite o <a href=\"https://sites.usp.br/labmaker/museu/\">Museu de Projetos</a>.</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "31189a853fe04",
+   "_sow_form_timestamp": 1792437876303,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310000",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 0,
+    "cell": 0,
+    "id": 0,
+    "widget_id": "6570beb7-7b4e-415f-a792-829f655700b2",
+    "style": {
+     "class": "lm-anim",
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": 9743,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "3eb7de09e8164",
+   "_sow_form_timestamp": 1792437876307,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310001",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 0,
+    "id": 1,
+    "widget_id": "7570a81a-521d-4137-928c-95a914391dab",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Gancho RedeProl / ICMC - Lab Intermídia</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Adeline Gabriela Silva Gil – ICMC (Lab Intermídia)<br />15/10/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> 2 horas (20,76 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Necessidade de um gancho para o repositório da RedeProl.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um modelo de gancho para uso direto no projeto.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Peça funcional produzida para suprir a demanda de fixação/suporte do repositório no laboratório.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "11b7e39269e14",
+   "_sow_form_timestamp": "1792438060832",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 0,
+    "id": 2,
+    "widget_id": "03edc707-8a2d-4ce7-9d42-720aa3be932a",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9746,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "41926b45adeb4",
+   "_sow_form_timestamp": 1792437876308,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310002",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 1,
+    "id": 3,
+    "widget_id": "ebcd325e-3b08-4e3f-9086-a8b834ad202b",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Cubo Infinito / ICMC - Lab Intermídia</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Adeline Gabriela Silva Gil – ICMC (Lab Intermídia)<br />15/10/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> 4h 37min (40,69 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de um brinquedo sensorial para o repositório da plataforma RedeProl (Processo FAPESP nº 2024/02024-9).</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um cubo infinito articulado, permitindo precisão dimensional e funcionalidade imediata das peças móveis.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> O modelo integrará o repositório de projetos interativos e pedagógicos da plataforma RedeProl.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "87e90d1a71f54",
+   "_sow_form_timestamp": "1792438060832",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 1,
+    "id": 4,
+    "widget_id": "941ebbda-f4f8-4fe0-8cd8-c0c4aa213c4f",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9747,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "6a837ea3ce904",
+   "_sow_form_timestamp": 1792437876308,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310003",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 2,
+    "id": 5,
+    "widget_id": "68c6ce63-263c-4d74-a0f4-ea22a660bf80",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Sistemas Embarcados / SEM0544</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Mateus Henrique Oliveira Silva – SEM0544<br />14/10/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 18h 22min (84,88 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de componentes estruturais para a montagem prática da disciplina de Sistemas Embarcados.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D das peças personalizadas para alojamento e suporte dos circuitos e atuadores.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Protótipo físico pronto para integração e testes dos sistemas embarcados do projeto acadêmico.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "cb4418b9d9e34",
+   "_sow_form_timestamp": "1792438060832",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 1,
+    "cell": 2,
+    "id": 6,
+    "widget_id": "bc9f9bc5-0a7e-4233-85a5-1123869eee55",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9749,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "8e166064cb1b4",
+   "_sow_form_timestamp": 1792437876308,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310004",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 0,
+    "id": 7,
+    "widget_id": "3363b0b2-9367-4d0c-ad55-52fa4fca211d",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Tampa de Encaixe / SEP0285</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Iasmin Azevedo de Oliveira – SEP0285 (Grupo 3)<br />05/10/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> 3h 01min (35,06 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de uma tampa de encaixe para teste funcional na disciplina de Práticas em Processos de Manufatura.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D rápida da peça de teste para verificação de tolerâncias e ajuste no conjunto mecânico.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Protótipo físico disponibilizado para validação experimental e montagem do projeto do grupo.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "372d10712fce4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 0,
+    "id": 8,
+    "widget_id": "27efb043-f1bb-41f1-b80a-c5480f1ef157",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9752,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "31bcb98c1fad4",
+   "_sow_form_timestamp": 1792437876309,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310005",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 1,
+    "id": 9,
+    "widget_id": "025eae62-70fa-454e-9422-c90590062cbd",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Teste de Encaixe / SEP0285</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Iasmin Azevedo de Oliveira – SEP0285 (Grupo 5)<br />05/10/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> 2h 27min (24,77 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Validação dimensional e de tolerâncias de uma peça de encaixe para a disciplina de Práticas em Processos de Manufatura.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D rápida do protótipo de teste para verificar o ajuste e o alinhamento das superfícies.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Modelo físico disponível para ensaios de montagem e validação do projeto do grupo.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "eed95bd96f7b4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 1,
+    "id": 10,
+    "widget_id": "beff9901-4433-4886-a60b-929bef6297b2",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9678,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "3f5c68ae49684",
+   "_sow_form_timestamp": 1792437876309,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310006",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 2,
+    "id": 11,
+    "widget_id": "629640cf-ba16-4551-baf7-fb8042d2cb1b",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Seção de Asa de Aeromodelo</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Asafe Martins Leite – Projeto Pessoal (Supervisão: Prof. Renato Silva)<br />23/09/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> 112 horas (800 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de seções aerodinâmicas para a montagem e estrutura de um aeromodelo.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de alta precisão geométrica das seções da asa, otimizando leveza e rigor dimensional.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Componentes estruturais fabricados para montagem, testes aerodinâmicos e avanço do projeto.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "480872e8d9dd4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 2,
+    "cell": 2,
+    "id": 12,
+    "widget_id": "9055b857-48d1-4f42-ac6c-91e39fa847e9",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9667,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "e83a79dea7d04",
+   "_sow_form_timestamp": 1792437876309,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310007",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 3,
+    "cell": 0,
+    "id": 13,
+    "widget_id": "23896900-c081-4903-bcd9-c408a170427c",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Headform LIO / EESC-USP</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Liliane Ventura Schiabel – SEL (LIO/EESC-USP)<br />22/09/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA PREMIUM bege (Próprio)<br /><strong>Tempo de impressão:</strong> 4 dias (700 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Necessidade de um suporte de cabeça padronizado para testes oftalmológicos em pesquisa de pós-graduação.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de uma headform conforme a norma ISO 18526-4:2020 (tamanho 1-M) com geometria complexa e medidas precisas.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> O modelo servirá de suporte para óculos de sol em experimentos com aquisição e processamento de imagens para quantificação do bloqueio de luz no LIO/EESC-USP.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "350316fe7f394",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 3,
+    "cell": 0,
+    "id": 14,
+    "widget_id": "33f089d0-3b3a-4dab-935a-5ac664059670",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9753,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "f3f74a85e6d84",
+   "_sow_form_timestamp": 1792437876310,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310008",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 3,
+    "cell": 1,
+    "id": 15,
+    "widget_id": "260c68dd-ce1c-4f4e-93fe-20a1216f55c5",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Suporte de Câmera / TOPUS</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Felipe Assis Bernardes Falvo – TOPUS<br />31/08/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> 1h 35min (15 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Necessidade de um suporte sob medida para fixação e alinhamento de uma câmera.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um componente estrutural leve e resistente para acoplamento do dispositivo.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Peça funcional pronta para montagem e uso no projeto do grupo TOPUS.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "fbaf323908814",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 3,
+    "cell": 1,
+    "id": 16,
+    "widget_id": "6b784b76-f9ab-48d3-b405-21314668b0d6",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9754,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "9254076436ad65bd5a0685640119870",
+   "_sow_form_timestamp": 1792437876310,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310009",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 3,
+    "cell": 2,
+    "id": 17,
+    "widget_id": "ef8e0fd9-d612-4a9d-8783-b8d1b01e9f44",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Célula Eletroquímica / NEMAF</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Yeimer Andres España Villada – NEMAF<br />18/08/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> A definir pelo técnico (EESC)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Desenvolvimento de um protótipo de célula eletroquímica para integração em máquina de tribocorrosão.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D para confecção de reservatório/corpo com geometria personalizada e resistente ao meio químico de teste.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Protótipo funcional disponibilizado para montagem e ensaios experimentais no laboratório NEMAF.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "7f14b5efd2e84",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 3,
+    "cell": 2,
+    "id": 18,
+    "widget_id": "340bcc6d-034e-4c00-996d-3a306f51481f",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9756,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "16054437656ad65bd6a1023011271197",
+   "_sow_form_timestamp": 1792437876310,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310010",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 0,
+    "id": 19,
+    "widget_id": "27e350df-4123-42e3-a795-83cacf69d6b2",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Bacia Hidrográfica - Modelo Didático</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Asafe Martins Leite – Projeto Orientado (Orientador: Prof. Renato Nicoletti)<br />13/08/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 4h 32min (55 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de uma representação tridimensional de relevo para fins de demonstração didática.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D topográfica em PLA, permitindo a visualização precisa das curvas de nível e da drenagem da bacia hidrográfica.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Modelo didático tátil e visual finalizado para suporte a atividades de ensino e pesquisa.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "169f6dd443d64",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 0,
+    "id": 20,
+    "widget_id": "b571159c-5b3b-41c6-9780-fd4fadb84856",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9757,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "11676742996ad65bd29cdfb228661424",
+   "_sow_form_timestamp": 1792437876311,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310011",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 1,
+    "id": 21,
+    "widget_id": "8eff05f4-3c09-45ae-affd-140d9a132438",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Suporte de Notebook / SET</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Raissa de Fatima Ferreira – SET<br />24/08/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 6h 48min (67,92 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Necessidade de um suporte ergonômico para elevação e melhora do arrefecimento de notebook.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um suporte estrutural leve e resistente sob medida.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Peça funcional disponibilizada para otimização da postura e do fluxo de ar do equipamento no setor.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5fd89c1d4d3f4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 1,
+    "id": 22,
+    "widget_id": "2d567003-ab5d-44c0-8cf3-6ac9e5c76efc",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9758,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "12426237056ad65bd63a432231611830",
+   "_sow_form_timestamp": 1792437876311,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310012",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 2,
+    "id": 23,
+    "widget_id": "593d6cc0-7197-4b65-a694-a2d868200a99",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Componentes de Infusão de Resina</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Oluwasegun Joshua Okunfolami<br />11/08/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> 18h 20min (154 g - 20 unidades)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de 20 conexões para fixar tubos de resina entre a bolsa de vácuo e a bomba no processo de infusão.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D em série de conectores sob medida para garantir estanqueidade e fixação adequada das tubulações.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Lote de 20 componentes entregue para viabilizar o sistema de infusão de resina a vácuo no laboratório.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5aab3d1f73994",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 4,
+    "cell": 2,
+    "id": 24,
+    "widget_id": "7043f345-d871-4040-ba1b-9a86da311b6b",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9673,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "15089010296ad65be91ce74347751670",
+   "_sow_form_timestamp": 1792437876311,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310013",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 5,
+    "cell": 0,
+    "id": 25,
+    "widget_id": "9028a110-e381-4384-8d46-5211c0c67584",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Estrutura de Pack de Baterias / Mileage</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Bruno Vanjura Vieira – Equipe Mileage<br />05/08/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PETG (Próprio)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de uma estrutura externa modular e segura para comportar e organizar as células de energia do veículo da equipe.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D em PETG, garantindo resistência mecânica e térmica adequada ao alojamento do pack de baterias.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Componente estrutural leve e sob medida produzido para o projeto de eficiência energética da equipe Mileage.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "028bf9779dbd4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 5,
+    "cell": 0,
+    "id": 26,
+    "widget_id": "f1b6d3dc-c487-432a-96c3-653f558276f7",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9680,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "5386517966ad65becdc4a8043220480",
+   "_sow_form_timestamp": 1792437876312,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310014",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 5,
+    "cell": 1,
+    "id": 27,
+    "widget_id": "9e82b526-7188-41c9-a164-0c58b77a8df7",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Case de Micro Câmera / SEL</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Eduardo Victor de Faria Ferraz Ramalho – SEL (Orientação: Prof. J. Marcos)<br />04/08/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> 6h 30min (47 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Proteção e fixação de uma micro câmera em um suporte dedicado.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um case sob medida para alojamento seguro e alinhamento do sensor óptico.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Suporte com proteção física pronto para integração no projeto do departamento.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "aa67a61fbcee4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 5,
+    "cell": 1,
+    "id": 28,
+    "widget_id": "903859b8-dd08-4482-b316-47aeaa1e55f9",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9759,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "11337988736ad65bec0ae98461016092",
+   "_sow_form_timestamp": 1792437876312,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310015",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 5,
+    "cell": 2,
+    "id": 29,
+    "widget_id": "f56f20cc-3065-4a25-9ed9-920b2733ef9f",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Jogo Genius / SA-SEL</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Vitoria Dutra de Carvalho – SA-SEL (Projeto de Extensão)<br />26/06/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA e PETG (EESC)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> 4h 30min (40 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Confecção dos componentes físicos para a montagem de um jogo eletrônico/manual interativo (estilo Genius).</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D colorida em PLA e PETG para peças estruturais e botões com precisão de encaixe.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Peças entregues para montagem e aplicação do jogo didático nas atividades do projeto de extensão.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "8b03de1c0f1c4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 5,
+    "cell": 2,
+    "id": 30,
+    "widget_id": "4d4f6698-6f15-4ba7-99da-35a9fe663db0",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9760,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "9482497146ad65beb89475196331386",
+   "_sow_form_timestamp": 1792437876312,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310016",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 0,
+    "id": 31,
+    "widget_id": "15578cc3-46a6-4d1b-a9c2-6dd1431b304a",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Energy Meter / EESC-USP Tupã</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Eduardo Gondim Rezende – EESC-USP Tupã (Fórmula SAE)<br />18/06/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 16h 36min (215 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de componentes e suporte de proteção para o medidor de energia (energy meter) do veículo de competição.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de peças estruturais sob medida, garantindo isolamento, fixação e proteção adequada do sistema elétrico.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Peças prontas para montagem do módulo de telemetria/energia exigido no regulamento da competição Fórmula SAE.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "e6c3d22924354",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 0,
+    "id": 32,
+    "widget_id": "1e983351-e435-4c08-9096-e7aec73197a5",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9761,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "12896875276ad6671dd46ec872405189",
+   "_sow_form_timestamp": 1792437876312,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310017",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 1,
+    "id": 33,
+    "widget_id": "a7d9c816-b31a-4374-9c96-5157436e3b2a",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Engrenagens para Servomotor</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Luca Canavessi Sartori<br />15/06/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> 30 min (50 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Desenvolvimento de um sistema de engrenagens para acionamento mecânico de abertura e fechamento de válvula via servomotor MG995.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de precisão para engrenagens customizadas com engate direto ao eixo do servo.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Componentes mecânicos prontos para testes de torque, montagem e controle do fluxo da válvula.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "ccb99caa3d924",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 1,
+    "id": 34,
+    "widget_id": "114f513e-09f6-4cda-8670-41898c760aab",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9762,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "1308678356ad66722154ae641131429",
+   "_sow_form_timestamp": 1792437876313,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310018",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 2,
+    "id": 35,
+    "widget_id": "6710a886-e16d-4183-98f1-ad948e184de1",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Seção de Asa / SET</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Asafe Martins Leite – SET<br />07/06/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> 14 horas (100 g - 2 tentativas)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Impressão de seções da asa garantindo boa aderência à mesa e precisão dimensional.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Reorientação das peças menores, posicionando a face plana em contato direto com a mesa de impressão para assegurar a fixação.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Peças impressas com sucesso após ajuste de orientação, prontas para integração na estrutura da asa.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "0f6879c7cdbb4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 6,
+    "cell": 2,
+    "id": 36,
+    "widget_id": "f3a9b9ba-9299-40a6-a49a-6085d1c182ba",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9763,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "20084703346ad66721bfe62083506764",
+   "_sow_form_timestamp": 1792437876313,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310019",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 7,
+    "cell": 0,
+    "id": 37,
+    "widget_id": "ed016946-276d-45d9-a5bb-0a9c8f40b7c2",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Calço Base / SEMEAR</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Marcos Aranon da Costa Alves – SEMEAR<br />29/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA branco ou cor próxima (EESC)<br /><strong>Tempo de impressão:</strong> 6h 41min (96 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Interface de acoplamento entre um manipulador robótico de 3 juntas e uma base móvel de navegação.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um calço base sob medida para permitir testes isolados e integrados do sistema robótico.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Componente de suporte finalizado para montagem e ensaios de navegação e manipulação da equipe SEMEAR.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "1bc4bb96bfec4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 7,
+    "cell": 0,
+    "id": 38,
+    "widget_id": "e9a619fe-a65a-4e6f-bd1c-bae7c7e0a9ad",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9764,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "19701827496ad6672145955774661948",
+   "_sow_form_timestamp": 1792437876314,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310020",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 7,
+    "cell": 1,
+    "id": 39,
+    "widget_id": "fb715438-1bb7-4a27-b3a4-b042a33fdb01",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Manipulador Robótico / SEM0541</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Mateus Henrique Oliveira Silva – SEM0544 / SEM0541<br />29/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PETG / PLA (EESC)<br /><strong>Tempo de impressão:</strong> 24 horas (350 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação e montagem de componentes mecânicos e estruturais para um manipulador robótico na disciplina.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D das juntas e links com foco em resistência estrutural e tolerâncias adequadas para articulação.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Lote de peças técnicas finalizado para montagem e testes práticos do sistema robótico.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "f66b1a29bb484",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 7,
+    "cell": 1,
+    "id": 40,
+    "widget_id": "6d898e55-57ff-4a74-ab12-37862c15a92d",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9668,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "14888993796ad6684cd3d2a029591096",
+   "_sow_form_timestamp": 1792437876314,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310021",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 7,
+    "cell": 2,
+    "id": 41,
+    "widget_id": "6f406029-bf60-44a4-853c-3bed9a0c1c7a",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Manipulador Robótico 3 DoF / SEM0541</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Lucas Mendes Campos – SEM0541 (Orientação: Prof. Renato Nicoletti)<br />28/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> ~22 horas (300 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Confecção da estrutura física do manipulador robótico de 3 graus de liberdade para a entrega final da disciplina.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D modular do conjunto de elos e juntas projetados ao longo do semestre.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Protótipo mecânico montado e pronto para validação experimental e avaliação do projeto acadêmico.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "dfd4abd87f7f4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 7,
+    "cell": 2,
+    "id": 42,
+    "widget_id": "b59f565a-fba5-4053-99a5-619276526dd2",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9669,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "5389624206ad6684f62d60605017490",
+   "_sow_form_timestamp": 1792437876314,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310022",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 8,
+    "cell": 0,
+    "id": 43,
+    "widget_id": "ded27bbe-f003-4804-a7cf-2b6f8e2674e5",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Modelo de Asa Aerodinâmica / IC PIBITI</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Maria Clara Caixeta Ribeiro e Cunha – Iniciação Científica (PIBITI)<br />22/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> A definir pelo técnico (EESC)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de seções de asa de 20 cm em 5 unidades para compor um modelo total de 100 cm para experimentos aerodinâmicos asa-hélice.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D modular das seções para montagem da asa em escala contínua com perfil aerodinâmico preciso.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Protótipo modular de asa finalizado para ensaios e coleta de dados na pesquisa do projeto PIBITI.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "07c8f561cbc44",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 8,
+    "cell": 0,
+    "id": 44,
+    "widget_id": "ee16c4d7-7b9a-4795-b4bc-e3fbb04227b9",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9766,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "15255988146ad6684fc7f64571291876",
+   "_sow_form_timestamp": 1792437876315,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310023",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 8,
+    "cell": 1,
+    "id": 45,
+    "widget_id": "314d5a73-3455-4100-9d24-fbe4f73f66bd",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Garra de Manipulador / SEM0541</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Rafael Janowski Pozzer – SEM0541<br />20/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PETG (EESC)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> 4h (15 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação dos componentes da garra do manipulador robótico para testes de preensão e ajuste mecânico.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D em PETG das peças da garra, garantindo a resistência e tenacidade necessárias para os ensaios do grupo.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Protótipo mecânico da garra entregue para realização de testes e validação prática na disciplina.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "0be1ce0c838a4",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 8,
+    "cell": 1,
+    "id": 46,
+    "widget_id": "26ab5005-f165-4d8b-be90-12c64e5013a5",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9675,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "11996978326ad66850a762b724480741",
+   "_sow_form_timestamp": 1792437876315,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310024",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 8,
+    "cell": 2,
+    "id": 47,
+    "widget_id": "55258342-a023-45e6-aafb-64364527d3c7",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Copo / Empresa Juniores</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Luca Canavessi Sartori – Empresa Juniores<br />18/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> 14 horas (150 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de um copo personalizado para uso ou representação institucional da Empresa Juniores.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D direta em PLA conforme o modelo tridimensional fornecido.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Modelo físico concluído e disponibilizado para o integrante da empresa juniores.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "fa7e60c00bd24",
+   "_sow_form_timestamp": "1792438060833",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 8,
+    "cell": 2,
+    "id": 48,
+    "widget_id": "05e475e0-72df-44e8-a004-c1fdddf7f61f",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9767,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "15638259566ad66ab34b6fb387374163",
+   "_sow_form_timestamp": 1792437876315,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310025",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 0,
+    "id": 49,
+    "widget_id": "3345e0e2-2b2f-43fd-a899-ac22e9c80a15",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Suporte ESP32</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Victor Henrique Portella Soler Rangel<br />18/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Impressora:</strong> Creality Ender 3 Pro<br /><strong>Tempo de impressão:</strong> 50 min (~10 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Necessidade de fixação e proteção para a placa microcontroladora ESP32 em um projeto eletrônico.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um suporte compacto e com furações adequadas para encaixe da placa.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Suporte físico entregue para alocação e integração segura da ESP32 no circuito do projeto.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "8ee888a285184",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 0,
+    "id": 50,
+    "widget_id": "8d035fa1-0caa-4ea4-966b-6e942cf5e000",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9670,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "18323971836ad669a07f95c374060742",
+   "_sow_form_timestamp": 1792437876315,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310026",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 1,
+    "id": 51,
+    "widget_id": "3cb66998-0d41-4b3b-ab69-488406310026",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Réplica da Cifra de César / SSC0104</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Henrique Alcici Sanchez – SSC0104 (Evolução Histórica da Computação)<br />11/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PETG (Próprio)<br /><strong>Tempo de impressão:</strong> 2h (100 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Construção de uma réplica física da Cifra de César com 20 cm de diâmetro para atividade de extensão avaliativa.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D escalada dos discos concentricos com gravações dos caracteres para permitir o manuseio e a rotação manual de criptografia.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Dispositivo criptográfico histórico impresso e pronto para apresentação na disciplina.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "a7664ff23e154",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 1,
+    "id": 52,
+    "widget_id": "33234041-1e29-4596-a488-261ea45001ab",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9768,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "12003907686ad669a0f03a9598922821",
+   "_sow_form_timestamp": 1792437876316,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310027",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 2,
+    "id": 53,
+    "widget_id": "529e2a30-11ee-4a6d-b744-6a86d19e06d1",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Módulo Didático / SET</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Raissa de Fatima Ferreira – SET<br />04/05/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 3h 49min (29,76 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Confecção de módulos físicos para utilização em atividades e demonstrações didáticas no departamento.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D das peças modulares conforme o modelo tridimensional pré-definido.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Módulos didáticos finalizados e entregues para aplicação prática de ensino no SET.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "bf4a64a664c34",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 9,
+    "cell": 2,
+    "id": 54,
+    "widget_id": "1fc2f45f-5560-4239-9aeb-a01917952189",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9769,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "19862110506ad669a173645150044762",
+   "_sow_form_timestamp": 1792437876316,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310028",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 10,
+    "cell": 0,
+    "id": 55,
+    "widget_id": "f91c0de6-509e-4080-b10b-fb63e61b3c9c",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Dado Didático / SET - PUB</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Asafe Martins Leite – SET (Projeto PUB)<br />22/04/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 2 horas (14 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Confecção de um dado para suporte a atividades didáticas e pedagógicas no Departamento de Estruturas.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um modelo de dado com geometria precisa para uso contínuo em demonstrações práticas.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Objeto didático entregue para aplicação nas dinâmicas e experimentos do projeto PUB.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "83a374af18a04",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 10,
+    "cell": 0,
+    "id": 56,
+    "widget_id": "87556db0-5d87-4fa4-9ca7-e3b550994432",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9770,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "3361086046ad6699e81a9c424445396",
+   "_sow_form_timestamp": 1792437876316,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310029",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 10,
+    "cell": 1,
+    "id": 57,
+    "widget_id": "c358d2c7-6bc8-4417-a648-80edea4921fe",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Módulo Didático Teste / SET</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Raissa de Fatima Ferreira – SET<br />14/04/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 6h 16min (40,22 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de módulos de teste para validação conceitual e dimensional antes da produção final.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D rápida dos protótipos modulares em PLA para verificação de encaixes e estabilidade.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Peças de teste entregues para avaliação e ajustes na metodologia didática do departamento.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5cfda24ed1b04",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 10,
+    "cell": 1,
+    "id": 58,
+    "widget_id": "686c3503-ece4-4fa9-a3a6-7f1511dd0076",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9771,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "14276206936ad66ab822c92097298407",
+   "_sow_form_timestamp": 1792437876317,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310030",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 10,
+    "cell": 2,
+    "id": 59,
+    "widget_id": "4fc64a27-5a50-47c9-bd96-7616afb79963",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Carenagem Aerodinâmica / SEM - Mestrado</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Maria Veronica Meneghetti Bomfim – SEM (Mestrado)<br />26/03/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 7h 30min (70 g - 2 partes)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de duas seções de uma carenagem para montagem e uso em bancada de testes de aerodinâmica experimental.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D modular em PLA para garantir o acabamento superficial e o perfil aerodinâmico exigidos na pesquisa.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Partes da carenagem concluídas com sucesso e disponibilizadas para os ensaios do projeto de mestrado.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "7fb0361d428b4",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 10,
+    "cell": 2,
+    "id": 60,
+    "widget_id": "65fb3a5d-1569-4bb0-9ad8-7eb41ac055af",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9671,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "15424653076ad66ab68aa30076901001",
+   "_sow_form_timestamp": 1792437876317,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310031",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 0,
+    "id": 61,
+    "widget_id": "fd5337ad-a674-4e3b-9726-918abc2ec964",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Engrenagens dos Acumuladores / SSC0104</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Pedro Luiz Yugata Duarte da Silva Sinzato – SSC0104 (Evolução Histórica da Computação)<br />25/03/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA Amarelo (EESC)<br /><strong>Tempo de impressão:</strong> 13h 50min (87 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação das engrenagens dos acumuladores para a reconstrução histórica de uma calculadora mecânica (Pascalina).</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de precisão em PLA amarelo para garantir o acoplamento exato entre os dentes e a mecânica do sistema de transporte de dígitos (carry).</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Conjunto de engrenagens finalizado para montagem e validação funcional do projeto mecânico da disciplina.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "6fbd96c620d44",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 0,
+    "id": 62,
+    "widget_id": "aaf75065-daae-4139-845c-b01ba1b3f597",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9772,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "8120813606ad66ab60f5ed451068285",
+   "_sow_form_timestamp": 1792437876317,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310032",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 1,
+    "id": 63,
+    "widget_id": "e7b9f1df-3b51-4576-be98-b9093229c6da",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Miniatura de Bloco de Concreto / SET - PUB</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Asafe Martins Leite – SET (Projeto PUB / Orientação: Prof. Renato Silva Nicoletti)<br />25/03/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 12h 16min (142 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Confecção de miniaturas de blocos de concreto estrutural (família 39) em escala para uso didático em aulas e demonstrações.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D detalhada das geometrias e furações características dos blocos de alvenaria estrutural em PLA.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Modelos didáticos em escala produzidos para suporte prático às atividades do departamento e do projeto PUB.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "8e8517b36c394",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 1,
+    "id": 64,
+    "widget_id": "2f0701ab-f264-4db3-b4c4-8bb2c84579e9",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9773,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "20036687686ad66ba221312923272439",
+   "_sow_form_timestamp": 1792437876318,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310033",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 2,
+    "id": 65,
+    "widget_id": "f34be299-45da-463a-a838-c1246c27c26b",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Forma Rugosa Vertical / SET</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Marcus Vinícius Filiagi Pastore – SET<br />16/03/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PETG (Próprio)<br /><strong>Tempo de impressão:</strong> 10h 34min (52 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Confecção de uma forma rugosa para criar a textura de interface adequada entre concretos moldados em idades diferentes.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D na vertical utilizando PETG para garantir o detalhamento superficial e a resistência necessária ao desmolde.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Matriz/forma rugosa entregue para ensaios de aderência e ligação de concreto no setor de estruturas.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "0b5f2a5aa5264",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 11,
+    "cell": 2,
+    "id": 66,
+    "widget_id": "b86f51a1-aa52-4ac7-84ad-7fea38663a16",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9774,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "14671811646ad66ba635225269022985",
+   "_sow_form_timestamp": 1792437876318,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310034",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 0,
+    "id": 67,
+    "widget_id": "d40ef28f-a9c2-483d-a702-261f6b91f65f",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Rugosidade de Forma de Prisma / SET</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Marcus Vinícius Filiagi Pastore – SET<br />12/03/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PETG (Próprio)<br /><strong>Impressora:</strong> Impressora 01<br /><strong>Tempo de impressão:</strong> 12h 50min (56 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Confecção de textura de rugosidade para aplicação em forma de prisma utilizada em ensaios laboratoriais.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D em PETG da matriz com padrão de textura específico para transferência ao corpo de prova.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Componente de rugosidade entregue para montagem da forma e realização dos ensaios no departamento.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "988d347c8c2e4",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 0,
+    "id": 68,
+    "widget_id": "ab6bed25-ceb7-49a7-84de-aeb58ea03d73",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9674,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "link_title": true,
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "15232166456ad66ba5c4e09007678062",
+   "_sow_form_timestamp": 1792437876318,
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310035",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 1,
+    "id": 69,
+    "widget_id": "6101fdaa-9455-437f-ab8d-51a5a1519591",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Base e Tampa TermoAlert / EESC jr.</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Luca Canavessi Sartori – EESC jr.<br />10/03/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> 5h 31min (41 g - 2 bases e 3 tampas)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação das estruturas de gabinete (2 bases e 3 tampas) para o dispositivo TermoAlert.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D em lote dos componentes do case, garantindo encaixe preciso e alinhamento entre as partes.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Lote de caixas de proteção concluído e disponibilizado para a montagem dos circuitos do projeto da EESC jr.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "625e16091ca94",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 1,
+    "id": 70,
+    "widget_id": "c7d88809-2116-4f3c-b2aa-c194d1c5ec41",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9775,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "6477295106ad66ba5516fa676164495",
+   "_sow_form_timestamp": 1792437876319,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310036",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 2,
+    "id": 71,
+    "widget_id": "4093704e-1630-4342-ae3b-59a2670a2258",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Jogo Didático / SEP - Iniciação Científica</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Thiago Henrique da Silva Mota – SEP (Iniciação Científica)<br />09/03/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> ~37h 26min total (482,5 g - Tabuleiro 240x240mm + 27 peças)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação completa dos protótipos físicos para um jogo didático, incluindo um tabuleiro de grandes dimensões (240x240 mm) e 27 peças individuais.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Fatiamento no Creality Print com agrupamento de peças em lotes (10 a 20 unidades por mesa) para otimizar o tempo de operação e uso da impressora.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Tabuleiro e conjunto integral de componentes impressos com sucesso para aplicação nos ensaios e validação da iniciação científica.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "53745056c60c4",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 12,
+    "cell": 2,
+    "id": 72,
+    "widget_id": "d8687a9e-f997-413b-b7c2-4b83bf5ad71e",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9776,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "19722463326ad66ca3c799a919092184",
+   "_sow_form_timestamp": 1792437876319,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310037",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 13,
+    "cell": 0,
+    "id": 73,
+    "widget_id": "fc52077c-eb9f-47fa-97d7-90cd7163f8d2",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Suporte para Motor / SEP - LAPRAS-NUMA</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autora: Laura Maria Soares de Oliveira – SEP<br />23/02/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 15h</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fixação rígida de um motor de passo na fresadora do laboratório LAPRAS-NUMA.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de um suporte robusto sob medida para acoplamento e alinhamento mecânico do motor.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Peças entregues para montagem e automação da fresadora no laboratório.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "6a639aa423144",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 13,
+    "cell": 0,
+    "id": 74,
+    "widget_id": "9fb6a2ff-e979-47cc-820f-c263edd1fdca",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9777,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "3634965076ad66ca760367850272859",
+   "_sow_form_timestamp": 1792437876319,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310038",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 13,
+    "cell": 1,
+    "id": 75,
+    "widget_id": "9149f2b6-6dbe-4ae0-bb65-4422346976aa",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Molde para Junções / EESC USP AeroDesign</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Rodrigo Martins Pereira – EESC USP AeroDesign<br />11/02/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (Próprio)<br /><strong>Tempo de impressão:</strong> 4h (40,92 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Fabricação de um molde dedicado para realização de testes de laminação em junções de aeromodelos.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D de precisão do molde em PLA com bom acabamento superficial para garantir a correta geometria durante a cura do laminado.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Molde entregue e disponibilizado para os ensaios de laminação de materiais compostos da equipe AeroDesign.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "c021ab5656394",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 13,
+    "cell": 1,
+    "id": 76,
+    "widget_id": "51fee51d-4e2a-4019-ad39-b25fcd0e3799",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "image": 9778,
+   "image_fallback": "",
+   "size": "medium_large",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "[Descrição da foto]",
+   "url": "",
+   "bound": true,
+   "full_width": true,
+   "rel": "",
+   "image_shape": {
+    "shape": "",
+    "repeat": "no-repeat",
+    "size": "",
+    "size_unit": "px",
+    "alignment": "center",
+    "so_field_container_state": "open",
+    "enable": ""
+   },
+   "_sow_form_id": "8168552006ad66ca6b1e67517270106",
+   "_sow_form_timestamp": 1792437876320,
+   "link_title": "",
+   "new_window": "",
+   "so_sidebar_emulator_id": "sow-image-930310039",
+   "option_name": "widget_sow-image",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 13,
+    "cell": 2,
+    "id": 77,
+    "widget_id": "b54c0f1a-c28f-46c7-8f96-056598e2c387",
+    "style": {
+     "class": "lm-anim lm-media"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h4 style=\"color:#224a85;font-size:16px;line-height:1.35;margin:14px 0 6px;\">Marcadores de Página / Bookmark</h4><p style=\"font-size:12.5px;color:#6b7686;margin:0 0 10px;\">Autor: Emanuel Cordeiro da Silva<br />05/03/2026</p><p style=\"font-size:13.5px;line-height:1.55;margin:0 0 10px;\"><strong>Material:</strong> PLA (EESC)<br /><strong>Tempo de impressão:</strong> 3 horas (100 g)</p><details><summary style=\"cursor:pointer;color:#224a85;font-weight:600;font-size:13.5px;\">Ver detalhes do projeto</summary><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Desafio:</strong> Produção em lote de marcadores de página personalizados.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Solução:</strong> Impressão 3D plana de perfis finos em PLA para garantir flexibilidade adequada e bom acabamento superficial.</p><p style=\"font-size:13.5px;line-height:1.55;margin:8px 0 0;\"><strong>Resultado:</strong> Marcadores de página concluídos e disponibilizados para uso e distribuição.</p></details>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "bd0e4c090e4f4",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 13,
+    "cell": 2,
+    "id": 78,
+    "widget_id": "5fc2f4fb-484f-4487-84d7-efac27373c67",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px",
+     "class": "lm-anim",
+     "padding": "0px 18px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p>&nbsp;</p>",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "552333a682bf4",
+   "_sow_form_timestamp": "1792438060834",
+   "option_name": "widget_sow-editor",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 14,
+    "cell": 0,
+    "id": 79,
+    "widget_id": "6f084b48-12e9-4810-a0cc-d688ba09751f",
+    "style": {
+     "background_display": "tile",
+     "background_image_attachment": false,
+     "background_image_opacity": "100",
+     "background_image_size": "full",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<h3><span style=\"color:#ffffff;\">LabMaker 3D EESC</span></h3>\n<p><span style=\"color:#d6d6d6;\">O LabMaker é o laboratório de impressão 3D da Escola de Engenharia de São Carlos (EESC-USP), dedicado a apoiar projetos de ensino, pesquisa e extensão da comunidade da USP São Carlos.</span></p>\n<p><a style=\"color:#ffffff;\" href=\"https://chamados.eesc.usp.br\"><strong>➜ Solicitar impressão</strong></a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "5de3abb0e5d54",
+   "_sow_form_timestamp": 1792437876320,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310041",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 15,
+    "cell": 0,
+    "id": 80,
+    "widget_id": "124fbd9c-37bd-4638-accb-bc18b3b849c3",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">O LABMAKER</span></strong></p>\n<hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" />\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/quem-somos/\">Quem somos</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/equipe/\">Equipe</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/museu/\">Museu de Projetos</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/galeria/\">Galeria</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/noticias/\">Notícias</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "dd5ef190b0434",
+   "_sow_form_timestamp": 1792437876321,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310042",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 15,
+    "cell": 1,
+    "id": 81,
+    "widget_id": "705f93ef-815f-4be7-961f-6ddcccc39dc8",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">SERVIÇOS</span></strong></p>\n<hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" />\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/como-solicitar/\">Como solicitar</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/perguntas-frequentes/\">Perguntas frequentes</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/impressoras-3d/\">Impressoras 3D</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/guia-de-materiais/\">Guia de materiais</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/recursos/\">Recursos para modelar</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "1e696fd930324",
+   "_sow_form_timestamp": 1792437876321,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310043",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 15,
+    "cell": 2,
+    "id": 82,
+    "widget_id": "2848e481-cad8-4ba9-af00-9348884a3c7f",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p><strong><span style=\"color:#ffffff;letter-spacing:1.5px;\">CONTATO</span></strong></p>\n<hr style=\"width:40px;border:0;border-top:2px solid #ffffff;margin:4px 0 14px;\" />\n<p><span style=\"color:#d6d6d6;\">Segunda a sexta-feira</span></p>\n<p><span style=\"color:#d6d6d6;\">Rodrigo Marchiori Mazak</span></p>\n<p><a style=\"color:#d6d6d6;\" href=\"tel:+5516991910335\">(16) 99191-0335</a></p>\n<p><a style=\"color:#d6d6d6;\" href=\"https://chamados.eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Abrir chamado</a></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "970a55e7f77a4",
+   "_sow_form_timestamp": 1792437876322,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310044",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 15,
+    "cell": 3,
+    "id": 83,
+    "widget_id": "300b6508-36d4-416f-a3bd-875ffb504690",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<hr style=\"border:0;border-top:1px solid #4a4a4a;\" />\n<p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Espaço CITE – Biblioteca da EESC (Serviço de Biblioteca Prof. Dr. Sérgio Rodrigues Fontes)</span></p>\n<p style=\"text-align:center;\"><span style=\"color:#d6d6d6;\">Área 1 – Av. Trabalhador São-carlense, 400 – Pq. Arnold Schimidt – CEP 13566-590 – São Carlos – SP</span></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "57c1bda6220b4",
+   "_sow_form_timestamp": 1792437876322,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310045",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 16,
+    "cell": 0,
+    "id": 84,
+    "widget_id": "dc7a51ca-cca7-4882-8c2b-238171dedba7",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "134382b6371e4",
+   "_sow_form_timestamp": 1792437876322,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310046",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 17,
+    "cell": 0,
+    "id": 85,
+    "widget_id": "3fcc314d-5955-4732-b670-97703d4bb6e3",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-eesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "EESC-USP",
+   "url": "https://eesc.usp.br",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": true,
+   "full_width": "",
+   "_sow_form_id": "b22d663ce2564",
+   "_sow_form_timestamp": 1792437876323,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930310047",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 17,
+    "cell": 1,
+    "id": 86,
+    "widget_id": "b22dfc3f-2468-4354-9a5b-879db1a909b5",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-beesc-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "Biblioteca da EESC – Prof. Dr. Sérgio Rodrigues Fontes",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "60993ffac2444",
+   "_sow_form_timestamp": 1792437876323,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930310048",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 17,
+    "cell": 2,
+    "id": 87,
+    "widget_id": "317172cc-7448-48c4-9020-bdba45f31f25",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "image": "",
+   "image_fallback": "https://sites.usp.br/labmaker/wp-content/uploads/sites/1773/2026/10/labmaker-logo-cetepe-branco.png",
+   "size": "full",
+   "size_width": "",
+   "size_height": "",
+   "size_external": "custom_size",
+   "size_external_width": "",
+   "size_external_height": "70",
+   "align": "center",
+   "title_align": "center",
+   "title": "",
+   "title_position": "hidden",
+   "alt": "CETEPE – Centro de Engenharia Aplicada ao Ensino",
+   "url": "",
+   "bound": true,
+   "rel": "",
+   "link_title": "",
+   "new_window": "",
+   "full_width": "",
+   "_sow_form_id": "58c8f0e90c364",
+   "_sow_form_timestamp": 1792437876323,
+   "option_name": "widget_sow-image",
+   "image_shape": "",
+   "so_sidebar_emulator_id": "sow-image-930310049",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Image_Widget",
+    "raw": false,
+    "grid": 17,
+    "cell": 3,
+    "id": 88,
+    "widget_id": "64b178ec-e9c5-487a-a1aa-38ac976b94a4",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\">&nbsp;</p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "eb7539665c744",
+   "_sow_form_timestamp": 1792437876323,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310050",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 17,
+    "cell": 4,
+    "id": 89,
+    "widget_id": "8f2241c4-b99d-4849-959c-5ce2ffbbddb7",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  },
+  {
+   "title": "",
+   "text": "<p style=\"text-align:center;\"><small><a style=\"color:#d6d6d6;\" href=\"https://sites.usp.br/labmaker/creditos/\">Créditos</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://eesc.usp.br\" target=\"_blank\" rel=\"noopener\">Portal da EESC</a> &nbsp;|&nbsp; <a style=\"color:#d6d6d6;\" href=\"https://www5.usp.br\" target=\"_blank\" rel=\"noopener\">Universidade de São Paulo</a></small></p>\n<p style=\"text-align:center;\"><small><span style=\"color:#d6d6d6;\">© 2026 LabMaker – Escola de Engenharia de São Carlos</span></small></p>\n",
+   "text_selected_editor": "tinymce",
+   "autop": true,
+   "_sow_form_id": "573456f4773c4",
+   "_sow_form_timestamp": 1792437876324,
+   "option_name": "widget_sow-editor",
+   "so_sidebar_emulator_id": "sow-editor-930310051",
+   "panels_info": {
+    "class": "SiteOrigin_Widget_Editor_Widget",
+    "raw": false,
+    "grid": 18,
+    "cell": 0,
+    "id": 90,
+    "widget_id": "196f4a3a-5550-42b7-aa23-a2b10a41f4b7",
+    "style": {
+     "background_image_attachment": false,
+     "background_display": "tile",
+     "background_image_size": "full",
+     "background_image_opacity": "100",
+     "border_thickness": "1px"
+    }
+   }
+  }
+ ],
+ "grids": [
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "40px",
+    "gutter": "24px",
+    "class": "lm-hero",
+    "padding": "50px 40px",
+    "background": "#eef1f6",
+    "row_stretch": "full"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 3,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "stretch",
+    "full_height": "",
+    "bottom_margin": "32px",
+    "gutter": "28px",
+    "class": "lm-cascata lm-galeria"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "cell_alignment": "flex-start",
+    "full_height": "",
+    "bottom_margin": "40px",
+    "gutter": "24px"
+   }
+  },
+  {
+   "cells": 4,
+   "style": {
+    "padding": "60px 40px 25px 40px",
+    "background": "#262626",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "padding": "0px 40px 10px 40px",
+    "background": "#262626",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  },
+  {
+   "cells": 5,
+   "style": {
+    "padding": "25px 40px 25px 40px",
+    "background": "#262626",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "30px",
+    "row_stretch": "full",
+    "cell_alignment": "center"
+   }
+  },
+  {
+   "cells": 1,
+   "style": {
+    "padding": "5px 40px 30px 40px",
+    "background": "#262626",
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "full_height": "",
+    "bottom_margin": "0px",
+    "gutter": "40px",
+    "row_stretch": "full",
+    "cell_alignment": "flex-start"
+   }
+  }
+ ],
+ "grid_cells": [
+  {
+   "grid": 0,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 1,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 2,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 3,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 3,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 3,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 4,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 5,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 5,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 5,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 6,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 7,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 7,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 7,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 8,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 8,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 8,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 9,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 9,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 9,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 10,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 10,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 10,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 11,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 12,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 12,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 12,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 13,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 13,
+   "index": 1,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 13,
+   "index": 2,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto",
+    "background": "#ffffff",
+    "border_color": "#dde3ec",
+    "padding": "0px 0px 18px 0px",
+    "class": "lm-card"
+   }
+  },
+  {
+   "grid": 14,
+   "index": 0,
+   "weight": 1.0,
+   "style": {
+    "background_display": "tile",
+    "background_image_attachment": false,
+    "background_image_opacity": "100",
+    "background_image_size": "full",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 15,
+   "index": 0,
+   "weight": 1.5,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 15,
+   "index": 1,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 15,
+   "index": 2,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 15,
+   "index": 3,
+   "weight": 1.1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 16,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 17,
+   "index": 0,
+   "weight": 0.8,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 17,
+   "index": 1,
+   "weight": 1.2,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 17,
+   "index": 2,
+   "weight": 1.4,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 17,
+   "index": 3,
+   "weight": 0.8,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 17,
+   "index": 4,
+   "weight": 0.8,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  },
+  {
+   "grid": 18,
+   "index": 0,
+   "weight": 1,
+   "style": {
+    "background_image_attachment": false,
+    "background_display": "tile",
+    "background_image_size": "full",
+    "background_image_opacity": "100",
+    "border_thickness": "1px",
+    "vertical_alignment": "auto"
+   }
+  }
+ ]
+}
